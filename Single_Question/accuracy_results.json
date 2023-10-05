@@ -1,0 +1,12 @@
+{
+    "gold_answer": [
+        "CLSW"
+    ],
+    "accuracy": 1,
+    "cosine_similarity": 0.7814359664916992,
+    "winning_candidate": {
+        "s": "Qinan Hu et al.: Semantic Representations of Terms in Traditional Chinese Medicine. (2019)",
+        "p": "published in book",
+        "o": "CLSW"
+    }
+}

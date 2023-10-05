@@ -1,0 +1,10 @@
+{
+    "question": "Mention the venue in which 'The impact of data from remote measurement technology on the clinical practice of healthcare professionals in depression, epilepsy and multiple sclerosis: survey' was published.",
+    "labeled_pairs": [
+        {
+            "s": "Jacob A. Andrews et al.: The impact of data from remote measurement technology on the clinical practice of healthcare professionals in depression, epilepsy and multiple sclerosis: survey. (2021)",
+            "p": "published in",
+            "o": "BMC Medical Informatics Decis. Mak."
+        }
+    ]
+}
