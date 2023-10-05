@@ -1,0 +1,4095 @@
+[
+    {
+        "question": "What is the ORCID of the person Mitsunori Ogihara?",
+        "cosine_similarity": 0.8804325461387634,
+        "winning_candidate": {
+            "s": "Mitsunori Ogihara",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0002-5690-7854"
+        }
+    },
+    {
+        "question": "Find the primary affiliation of Tatiana Tommasi.",
+        "cosine_similarity": 0.775895357131958,
+        "winning_candidate": {
+            "s": "Tatiana Tommasi",
+            "p": "primary affiliation",
+            "o": "Catholic University of Leuven, Belgium"
+        }
+    },
+    {
+        "question": "Which publications did R. Clay Sprowls write?",
+        "cosine_similarity": 0.8788648247718811,
+        "winning_candidate": {
+            "s": "Clay Sprowls: Paradigm shirt: the new promise of information technology: Dan Tapscott and Art Caston McGraw-Hill New York (1993) 337 pp $24.95 ISBN 0 07 062857 2. (1994)",
+            "p": "authored by",
+            "o": "R. Clay Sprowls"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Zhang, Xinru?",
+        "cosine_similarity": 0.8551555871963501,
+        "winning_candidate": {
+            "s": "Haoran Wei et al.: DEANet: Dual Encoder with Attention Network for Semantic Segmentation of Remote Sensing Imagery. (2021)",
+            "p": "authored by",
+            "o": "Xinru Zhang"
+        }
+    },
+    {
+        "question": "Mention the ORCID of the researcher Lea, Chin-Tau A..",
+        "cosine_similarity": 0.8612173795700073,
+        "winning_candidate": {
+            "s": "Chin-Tau A. Lea",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0003-2792-760X"
+        }
+    },
+    {
+        "question": "The author George A. Vouros is primarily affiliated to which institution?",
+        "cosine_similarity": 0.8382622003555298,
+        "winning_candidate": {
+            "s": "George A. Vouros",
+            "p": "primary affiliation",
+            "o": "University of Piraeus, Department of Digital Systems"
+        }
+    },
+    {
+        "question": "What are the papers written by the person schraefel, m. c.?",
+        "cosine_similarity": 0.8935946226119995,
+        "winning_candidate": {
+            "s": "m. c. schraefel: What is an analogue for the semantic web and why is having one important? (2007)",
+            "p": "authored by",
+            "o": "m. c. schraefel"
+        }
+    },
+    {
+        "question": "What is the ORCID of Suhaidi Hassan?",
+        "cosine_similarity": 0.8945863246917725,
+        "winning_candidate": {
+            "s": "Suhaidi Hassan",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0002-5094-4929"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Olugbemiga Solomon Popoola?",
+        "cosine_similarity": 0.8493925929069519,
+        "winning_candidate": {
+            "s": "Olugbemiga Solomon Popoola et al.: Design of a Secure Public Accounts System for Enhanced War Against Corruption Using Intelligent Software Agent. (2017)",
+            "p": "authored by",
+            "o": "Olugbemiga Solomon Popoola"
+        }
+    },
+    {
+        "question": "Which papers did the author Ji-Ming Lin write?",
+        "cosine_similarity": 0.8487235903739929,
+        "winning_candidate": {
+            "s": "Chuan-Yu Chang and Ji-Ming Lin: Implementation of Automatic Control System: A Case Study of Rubber Mixing Machine. (2015)",
+            "p": "authored by",
+            "o": "Ji-Ming Lin"
+        }
+    },
+    {
+        "question": "Which publications did M. Oguz Sunay write?",
+        "cosine_similarity": 0.8512611985206604,
+        "winning_candidate": {
+            "s": "Achilles G. Kogiantis et al.: On transmit diversity and scheduling in wireless packet data. (2001)",
+            "p": "authored by",
+            "o": "Oguz Sunay"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Sandor M. Veres?",
+        "cosine_similarity": 0.8731350302696228,
+        "winning_candidate": {
+            "s": "Sandor M. Veres: Knowledge of machines: review and forward look. (2012)",
+            "p": "authored by",
+            "o": "Sandor M. Veres"
+        }
+    },
+    {
+        "question": "What are the papers written by Eric B. Decker?",
+        "cosine_similarity": 0.8671295642852783,
+        "winning_candidate": {
+            "s": "Eric B. Decker et al.: Definitions of Managed Objects for Bridges. (1993)",
+            "p": "authored by",
+            "o": "Eric B. Decker"
+        }
+    },
+    {
+        "question": "Find the primary affiliation of Steve Benford.",
+        "cosine_similarity": 0.7880472540855408,
+        "winning_candidate": {
+            "s": "Steve Benford",
+            "p": "primary affiliation",
+            "o": "University of Nottingham, UK"
+        }
+    },
+    {
+        "question": "What are the publications written by the author Ernesto Segredo-Otero?",
+        "cosine_similarity": 0.7872994542121887,
+        "winning_candidate": {
+            "s": "Ernesto Segredo-Otero and Rafael Sanju\u00e1n: The role of spatial structure in the evolution of viral innate immunity evasion: A diffusion-reaction cellular automaton model. (2020)",
+            "p": "authored by",
+            "o": "Ernesto Segredo-Otero"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Bhargava, Vijay K.?",
+        "cosine_similarity": 0.8811970353126526,
+        "winning_candidate": {
+            "s": "Vijay K. Bhargava et al.: A characterization of a (56, 28) extremal self-dual code. (1981)",
+            "p": "authored by",
+            "o": "Vijay K. Bhargava"
+        }
+    },
+    {
+        "question": "What are the papers written by Chrysostomos Marasinou?",
+        "cosine_similarity": 0.8457407355308533,
+        "winning_candidate": {
+            "s": "Kalyani Marathe et al.: Automated quantitative assessment of amorphous calcifications: Towards improved malignancy risk stratification. (2022)",
+            "p": "authored by",
+            "o": "Chrysostomos Marasinou"
+        }
+    },
+    {
+        "question": "Mention the ORCID of the researcher James J. Nutaro.",
+        "cosine_similarity": 0.8963690400123596,
+        "winning_candidate": {
+            "s": "James J. Nutaro",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0001-7360-2836"
+        }
+    },
+    {
+        "question": "What is the Wikidata ID of Krstic, Miroslav?",
+        "cosine_similarity": 0.8969331979751587,
+        "winning_candidate": {
+            "s": "Miroslav Krstic",
+            "p": "sameAs",
+            "o": "https://www.wikidata.org/entity/Q6873980"
+        }
+    },
+    {
+        "question": "Mention the webpage of the researcher Yap, Chee-Keng.",
+        "cosine_similarity": 0.9204498529434204,
+        "winning_candidate": {
+            "s": "Chee-Keng Yap",
+            "p": "web page URL",
+            "o": "https://www.linkedin.com/in/chee-yap-5a12015"
+        }
+    },
+    {
+        "question": "What is the webpage of Marc Ericson C. Santos?",
+        "cosine_similarity": 0.8898302912712097,
+        "winning_candidate": {
+            "s": "Marc Ericson C. Santos",
+            "p": "web page URL",
+            "o": "https://scholar.google.com/citations?user=ys-_nsgAAAAJ"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Maurits Ortmanns?",
+        "cosine_similarity": 0.8680207133293152,
+        "winning_candidate": {
+            "s": "Niklas Lotze et al.: A Study on self-timed asynchronous subthreshold logic. (2007)",
+            "p": "authored by",
+            "o": "Maurits Ortmanns"
+        }
+    },
+    {
+        "question": "Which publications did Suzuki, Youhei write?",
+        "cosine_similarity": 0.8417813181877136,
+        "winning_candidate": {
+            "s": "Haichao Liang et al.: An FPGA-based CollisionWarning System Using Hybrid Approach. (2007)",
+            "p": "authored by",
+            "o": "Youhei Suzuki"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Celesti, Antonio?",
+        "cosine_similarity": 0.8558599352836609,
+        "winning_candidate": {
+            "s": "Antonino Galletta et al.: Overcoming security limitations of Secret Share techniques: the Nested Secret Share. (2021)",
+            "p": "authored by",
+            "o": "Antonio Celesti"
+        }
+    },
+    {
+        "question": "What is the ORCID of the person Gheorghe Cosmin Silaghi?",
+        "cosine_similarity": 0.8687644600868225,
+        "winning_candidate": {
+            "s": "Gheorghe Cosmin Silaghi",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0002-3447-4736"
+        }
+    },
+    {
+        "question": "What is the primary affiliation of Genev\\u00E8s, P.?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which publications did Boonsri Kaewkham-ai author?",
+        "cosine_similarity": 0.8670451641082764,
+        "winning_candidate": {
+            "s": "Boonsri Kaewkham-ai and Kasemsak Uthaichana: Integration of Project-Based Learning into Control System Laboratory Course for Electrical Engineering Students. (2019)",
+            "p": "authored by",
+            "o": "Boonsri Kaewkham-ai"
+        }
+    },
+    {
+        "question": "What are the publications written by the author Liang, Yingbin?",
+        "cosine_similarity": 0.9018462896347046,
+        "winning_candidate": {
+            "s": "Huishuai Zhang et al.: Secret key capacity: Talk or keep silent? (2015)",
+            "p": "authored by",
+            "o": "Yingbin Liang"
+        }
+    },
+    {
+        "question": "What are the publications written by the author Tjeng Thiang Tjhung?",
+        "cosine_similarity": 0.8782308101654053,
+        "winning_candidate": {
+            "s": "H. Singh and T. T. Tjhung: FSK Bit Synchronization by Combined AM. (1973)",
+            "p": "authored by",
+            "o": "Tjeng Thiang Tjhung"
+        }
+    },
+    {
+        "question": "Mention the ORCID of the researcher Monteiro, Edmundo.",
+        "cosine_similarity": 0.8822372555732727,
+        "winning_candidate": {
+            "s": "Edmundo Monteiro",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0003-1615-2925"
+        }
+    },
+    {
+        "question": "Mention the Wikidata identifier of the researcher Gabor T. Herman.",
+        "cosine_similarity": 0.9115744829177856,
+        "winning_candidate": {
+            "s": "Gabor T. Herman",
+            "p": "wikidata",
+            "o": "https://www.wikidata.org/entity/Q93090619"
+        }
+    },
+    {
+        "question": "What is the primary affiliation of Schober, Robert?",
+        "cosine_similarity": 0.872295618057251,
+        "winning_candidate": {
+            "s": "Robert Schober",
+            "p": "primary affiliation",
+            "o": "Friedrich-Alexander University Erlangen-N\u00fcrnberg, Germany"
+        }
+    },
+    {
+        "question": "What are the publications written by the author Krishnaswamy, Smita?",
+        "cosine_similarity": 0.8806330561637878,
+        "winning_candidate": {
+            "s": "Scott Gigante et al.: Compressed Diffusion. (2019)",
+            "p": "authored by",
+            "o": "Smita Krishnaswamy"
+        }
+    },
+    {
+        "question": "Which publications did Kristian L. McDonald author?",
+        "cosine_similarity": 0.8636912107467651,
+        "winning_candidate": {
+            "s": "Kristian L. McDonald: Switched Threshold Signatures from K-Private PolyShamir Secret Sharing. (2020)",
+            "p": "authored by",
+            "o": "Kristian L. McDonald"
+        }
+    },
+    {
+        "question": "What are the papers written by the person Linghu, Yuan?",
+        "cosine_similarity": 0.8432156443595886,
+        "winning_candidate": {
+            "s": "Yuan Linghu and Xiangxue Li: WSG-InV: Weighted State Graph Model for Intrusion Detection on In-Vehicle Network. (2021)",
+            "p": "authored by",
+            "o": "Yuan Linghu"
+        }
+    },
+    {
+        "question": "What is the primary affiliation of Johan de Kleer?",
+        "cosine_similarity": 0.8532295823097229,
+        "winning_candidate": {
+            "s": "Johan de Kleer",
+            "p": "primary affiliation",
+            "o": "Palo Alto Research Center Incorporated, PARC, California, USA"
+        }
+    },
+    {
+        "question": "What is the webpage of Lakhotia, A.?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the co-authors of Will N. Browne.",
+        "cosine_similarity": 0.9244351387023926,
+        "winning_candidate": {
+            "s": "Gisele Lobo Pappa et al.: Tutorials at PPSN 2018. (2018)",
+            "p": "authored by",
+            "o": "Will N. Browne"
+        }
+    },
+    {
+        "question": "Which papers did Thanasis L. and Koziri, Maria G. write together?",
+        "cosine_similarity": 0.8998035788536072,
+        "winning_candidate": {
+            "s": "Maximiliana Behnke et al.: Improving Machine Translation of Educational Content via Crowdsourcing. (2018)",
+            "p": "authored by",
+            "o": "Thanasis Naskos"
+        }
+    },
+    {
+        "question": "Which papers did Guo-Wei Wei and D. Duy Nguyen write together?",
+        "cosine_similarity": 0.8633086085319519,
+        "winning_candidate": {
+            "s": "Zujun Hou and Guo-Wei Wei: A new approach to edge detection. (2002)",
+            "p": "authored by",
+            "o": "Guo-Wei Wei 0001"
+        }
+    },
+    {
+        "question": "With which other authors has the author Hiromichi Kameya written papers?",
+        "cosine_similarity": 0.8760754466056824,
+        "winning_candidate": {
+            "s": "Daiki Shirafuji et al.: Summarizing Utterances from Japanese Assembly Minutes using Political Sentence-BERT-based Method for QA Lab-PoliInfo-2 Task of NTCIR-15. (2020)",
+            "p": "authored by",
+            "o": "Hiromichi Kameya"
+        }
+    },
+    {
+        "question": "Which papers did Vidgen, Richard T. publish in HICSS?",
+        "cosine_similarity": 0.9210527539253235,
+        "winning_candidate": {
+            "s": "Richard T. Vidgen: What's So Different About Developing Web-based Information Systems? (2002)",
+            "p": "authored by",
+            "o": "Richard T. Vidgen"
+        }
+    },
+    {
+        "question": "Which papers did the author Thomas Behr publish in the last three years?",
+        "cosine_similarity": 0.8718342781066895,
+        "winning_candidate": {
+            "s": "Ralf Hartmut G\u00fcting et al.: Trajectory Databases. (2013)",
+            "p": "authored by",
+            "o": "Thomas Behr"
+        }
+    },
+    {
+        "question": "What are the venues in which Trahan, Robin published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which paper written by Zadeh, M. Hosseini with Sean McNulty was published in IEEE Conference on Systems, Man and Cybernetics?",
+        "cosine_similarity": 0.8401208519935608,
+        "winning_candidate": {
+            "s": "Vajiheh Abedi et al.: Software Failures Prediction in Self-Driving Vehicles. (2020)",
+            "p": "authored by",
+            "o": "Mehrdad Hosseini Zadeh"
+        }
+    },
+    {
+        "question": "What research papers did Jason B. Thatcher publish with the author affiliated to Temple University, Philadelphia, PA, USA?",
+        "cosine_similarity": 0.8974137306213379,
+        "winning_candidate": {
+            "s": "Ravi Bapna et al.: Lab Experiment and Field Experiment in the Digital Age: Friend or Foe? (2018)",
+            "p": "authored by",
+            "o": "Jason Bennett Thatcher"
+        }
+    },
+    {
+        "question": "In IEEE Trans. Commun., which paper written by D. V. Truhachev with Axel Huebner was published?",
+        "cosine_similarity": 0.8114436864852905,
+        "winning_candidate": {
+            "s": "Lukasz Krzymien et al.: Two-stage detection of partitioned random CDMA. (2008)",
+            "p": "authored by",
+            "o": "Dmitri V. Truhachev"
+        }
+    },
+    {
+        "question": "List the papers published by Khalasi, Gaurangkumar in CUBE.",
+        "cosine_similarity": 0.9305956959724426,
+        "winning_candidate": {
+            "s": "Gaurangkumar Khalasi",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Gaurangkumar Khalasi"
+        }
+    },
+    {
+        "question": "Mention the paper written by Young-Chan Kim with Sam-Taek Kim that was published in PDPTA.",
+        "cosine_similarity": 0.8551509380340576,
+        "winning_candidate": {
+            "s": "Hai T. Mai and Young-Chan Kim: A Novel Pattern Search Engine for Time Series Supporting Dynamic Expected Patterns within a Short Period of Time. (2015)",
+            "p": "authored by",
+            "o": "Young-Chan Kim"
+        }
+    },
+    {
+        "question": "Which paper written by Ali Dehghantanha with Kim-Kwang Raymond Choo was published in TrustCom/BigDataSE?",
+        "cosine_similarity": 0.8122374415397644,
+        "winning_candidate": {
+            "s": "Mohammad Shariati et al.: Ubuntu One investigation: Detecting evidences on client machines. (2015)",
+            "p": "authored by",
+            "o": "Ali Dehghantanha"
+        }
+    },
+    {
+        "question": "Mention the papers published by Georgios C. Sirakoulis with the author from Dimokrition Panepistimion Thrakis, Komotini, Greece.",
+        "cosine_similarity": 0.8633142709732056,
+        "winning_candidate": {
+            "s": "M. G. Kechaidou and Georgios Ch. Sirakoulis: Game of Life variations for image scrambling. (2017)",
+            "p": "authored by",
+            "o": "Georgios Ch. Sirakoulis"
+        }
+    },
+    {
+        "question": "List the papers published by Am\\u00E9lie Gheerbrant in the last 7 years.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "List the papers published by M. Nizam Kabir in the last eight years.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In the last four years, which papers did Seyed Mostafa Safdarnejad publish?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In the last six years, which papers did Malrey Lee publish?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In International Conference on Advanced Information Networking and Applications, which papers did Durresi, Arjan publish?",
+        "cosine_similarity": 0.8905420899391174,
+        "winning_candidate": {
+            "s": "Arjan Durresi et al.: Control Theory Optimization of MECN in Satellite Networks. (2005)",
+            "p": "authored by",
+            "o": "Arjan Durresi"
+        }
+    },
+    {
+        "question": "Which papers did Choi, Seongjin publish in ITSC?",
+        "cosine_similarity": 0.8497439622879028,
+        "winning_candidate": {
+            "s": "Tengfeng Lin et al.: A Framework for Pedestrian Sub-classification and Arrival Time Prediction at Signalized Intersection Using Preprocessed Lidar Data. (2022)",
+            "p": "authored by",
+            "o": "Seongjin Choi"
+        }
+    },
+    {
+        "question": "What are the publications written by the authors Rebecca Swords and Lucja Kot in collaboration?",
+        "cosine_similarity": 0.8556497097015381,
+        "winning_candidate": {
+            "s": "Vineeth Kashyap et al.: Automated Customized Bug-Benchmark Generation. (2019)",
+            "p": "authored by",
+            "o": "Rebecca Swords"
+        }
+    },
+    {
+        "question": "With which other authors has the author Yogatama, Dani written papers?",
+        "cosine_similarity": 0.8833950757980347,
+        "winning_candidate": {
+            "s": "Devendra Singh Sachan et al.: Questions Are All You Need to Train a Dense Passage Retriever. (2022)",
+            "p": "authored by",
+            "o": "Dani Yogatama"
+        }
+    },
+    {
+        "question": "List the co-authors of P. Smaragdis.",
+        "cosine_similarity": 0.8908821940422058,
+        "winning_candidate": {
+            "s": "Martin Heckmann et al.: Preface. (2011)",
+            "p": "authored by",
+            "o": "Paris Smaragdis"
+        }
+    },
+    {
+        "question": "Which publications did Paul P. Sotiriadis write with the author from National Technical University of Athens?",
+        "cosine_similarity": 0.8412818908691406,
+        "winning_candidate": {
+            "s": "Konstantinos Papafotis et al.: Magnetic Field Sensors' Calibration: Algorithms' Overview and Comparison. (2021)",
+            "p": "authored by",
+            "o": "Paul P. Sotiriadis"
+        }
+    },
+    {
+        "question": "Find the paper written by Zhiguo Yang with Sudharshan, D. that was published in Expert Syst. Appl..",
+        "cosine_similarity": 0.7962737679481506,
+        "winning_candidate": {
+            "s": "Zehong Cao et al.: IEEE Access Special Section Editorial: Neural Engineering Informatics. (2020)",
+            "p": "authored by",
+            "o": "Zhiguo Zhang 0001"
+        }
+    },
+    {
+        "question": "In which conferences or journals has Jiman Jeong published papers?",
+        "cosine_similarity": 0.8378676176071167,
+        "winning_candidate": {
+            "s": "Insung Ihm et al.: Low-Cost Depth Camera Pose Tracking for Mobile Platforms. (2016)",
+            "p": "authored by",
+            "o": "Jiman Jeong"
+        }
+    },
+    {
+        "question": "Find the papers written by Huang, Bert and Elaheh Raisi together.",
+        "cosine_similarity": 0.7686181664466858,
+        "winning_candidate": {
+            "s": "Ansaf Salleb-Aouissi et al.: Discovering Characterization Rules from Rankings. (2009)",
+            "p": "authored by",
+            "o": "Bert Huang"
+        }
+    },
+    {
+        "question": "Which papers did the authors R. Sivagami and X. Zhi Gao co-write?",
+        "cosine_similarity": 0.845167875289917,
+        "winning_candidate": {
+            "s": "T. Tamizh Chelvam and M. Sivagami: Domination in Cayley graphs: A survey. (2019)",
+            "p": "authored by",
+            "o": "M. Sivagami"
+        }
+    },
+    {
+        "question": "In IEICE Trans. Fundam. Electron. Commun. Comput. Sci., which papers did Goro Yamauchi publish?",
+        "cosine_similarity": 0.8710356950759888,
+        "winning_candidate": {
+            "s": "Yoshinobu Yasuno et al.: Environmentally Robust Electret Condenser Microphone. (2006)",
+            "p": "authored by",
+            "o": "Goro Yamauchi"
+        }
+    },
+    {
+        "question": "Which papers did Max Q.-H. Meng publish in the last 9 years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the venues in which Jurgen J. Vinju published.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Find the papers written by Clerckx, Bruno and Hao, Chenxi together.",
+        "cosine_similarity": 0.7519984245300293,
+        "winning_candidate": {
+            "s": "Anup Mishra et al.: Rate-Splitting Multiple Access for 6G - Part I: Principles, Applications and Future Works. (2022)",
+            "p": "authored by",
+            "o": "Bruno Clerckx"
+        }
+    },
+    {
+        "question": "List the co-authors of Seong-O Shim.",
+        "cosine_similarity": 0.909619927406311,
+        "winning_candidate": {
+            "s": "Seong-O Shim",
+            "p": "sameAs",
+            "o": "https://orcid.org/0000-0002-1842-4624"
+        }
+    },
+    {
+        "question": "List the papers published by Shivkumar Kalyanaraman with the author from Rensselaer Polytechnic Institute, Troy, USA.",
+        "cosine_similarity": 0.8966929912567139,
+        "winning_candidate": {
+            "s": "Shivkumar Kalyanaraman: Back to the Future: Lessons for Internet of Energy Networks. (2016)",
+            "p": "authored by",
+            "o": "Shivkumar Kalyanaraman"
+        }
+    },
+    {
+        "question": "List the papers published by Pavel Ircing in the last 3 years.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which papers did K. Oliver Arras and Nejat, Goldie write together?",
+        "cosine_similarity": 0.9023356437683105,
+        "winning_candidate": {
+            "s": "Matthias Luber et al.: Place-dependent people tracking. (2011)",
+            "p": "authored by",
+            "o": "Kai Oliver Arras"
+        }
+    },
+    {
+        "question": "Which publications did Katsuhiko Shirai write with the author from Waseda University?",
+        "cosine_similarity": 0.8959911465644836,
+        "winning_candidate": {
+            "s": "Shigeki Ohira and Katsuhiko Shirai: Proposal and Evaluation of Significant Words Selection Method Based on AIC. (1999)",
+            "p": "authored by",
+            "o": "Katsuhiko Shirai"
+        }
+    },
+    {
+        "question": "Mention the papers published by Baroni, M. with the author from University of Trento.",
+        "cosine_similarity": 0.7914883494377136,
+        "winning_candidate": {
+            "s": "Jean-Marc Tulliani et al.: Strontium-Doped Hematite as a Possible Humidity Sensing Material for Soil Water Content Determination. (2013)",
+            "p": "authored by",
+            "o": "Chiara Baroni"
+        }
+    },
+    {
+        "question": "What are the titles of the papers that Saad Noor Mohammad published and in which venues?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "With which other authors has Haowei Yuan co-authored papers in the last 3 years and where are they affiliated?",
+        "cosine_similarity": 0.8639037609100342,
+        "winning_candidate": {
+            "s": "Ze'ev Lailari et al.: Experiments with the Emulated NDN Testbed in ONL. (2015)",
+            "p": "authored by",
+            "o": "Haowei Yuan"
+        }
+    },
+    {
+        "question": "Mention the other authors with whom Mingsheng Long has co-authored papers in the last 5 years and where are they affiliated.",
+        "cosine_similarity": 0.88617342710495,
+        "winning_candidate": {
+            "s": "Yuchen Zhang et al.: Bridging Theory and Algorithm for Domain Adaptation. (2019)",
+            "p": "authored by",
+            "o": "Mingsheng Long"
+        }
+    },
+    {
+        "question": "Mention the papers published by Weihai Li and in which year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What are the titles of the papers that Reem I. Masoud published and in which venues?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the other authors with whom Gozde B. Akar has co-authored papers in the last four years and where are they affiliated.",
+        "cosine_similarity": 0.8856387138366699,
+        "winning_candidate": {
+            "s": "Savas \u00d6zkan and Gozde Bozdagi Akar: Deep Spectral Convolution Network for Hyperspectral Unmixing. (2018)",
+            "p": "authored by",
+            "o": "Gozde Bozdagi Akar"
+        }
+    },
+    {
+        "question": "List the titles of the papers that Marcus A. Neumann published and in which venues.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What are the titles of the papers that the author LaPre, A. K. published in the last 6 years and in which venues?",
+        "cosine_similarity": 0.847018837928772,
+        "winning_candidate": {
+            "s": "Andrew K. LaPre and Frank Sup: Simulation of a slope adapting ankle prosthesis provided by semi-active damping. (2011)",
+            "p": "authored by",
+            "o": "Andrew K. LaPre"
+        }
+    },
+    {
+        "question": "Name the co-authors of Novick, Y. in the last 9 years and where are they affiliated?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "List the co-authors of Tadano, Kumiko in the last five years and where are they affiliated.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which venues did the author Vedran Bilas publish papers and what are the titles of these papers?",
+        "cosine_similarity": 0.853754460811615,
+        "winning_candidate": {
+            "s": "Daniel Belega and Vedran Bilas: Guest editorial: Instrumentation and measurement in central and Eastern Europe. (2020)",
+            "p": "authored by",
+            "o": "Vedran Bilas"
+        }
+    },
+    {
+        "question": "Mention the papers published by I. Papamichail and in which year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the papers published by Shanmughaneethi, V. and in which year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which publications did Thomas Leo McCluskey author and in which year?",
+        "cosine_similarity": 0.835629940032959,
+        "winning_candidate": {
+            "s": "Ron M. Simpson et al.: Planning domain definition using GIPO. (2007)",
+            "p": "authored by",
+            "o": "Thomas Leo McCluskey"
+        }
+    },
+    {
+        "question": "Who are the co-authors of Pavel Surynek and where are they affiliated?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which venues did the author Kmimech, Mourad publish papers in the last nine years and what are the titles of these papers?",
+        "cosine_similarity": 0.8854212760925293,
+        "winning_candidate": {
+            "s": "Mohamed Tahar Bhiri et al.: Transformation exog\u00e8ne de Wright vers Ada. (2012)",
+            "p": "authored by",
+            "o": "Mourad Kmimech"
+        }
+    },
+    {
+        "question": "In which venues did the author A. Tarek Farag publish papers and what are the titles of these papers?",
+        "cosine_similarity": 0.8384302258491516,
+        "winning_candidate": {
+            "s": "Abdullah Tarek Farag et al.: MultiCheXNet: A Multi-Task Learning Deep Network For Pneumonia-like Diseases Diagnosis From X-ray Scans. (2020)",
+            "p": "authored by",
+            "o": "Abdullah Tarek Farag"
+        }
+    },
+    {
+        "question": "What are the titles of the papers that the author Cambone, Marie published in the last 6 years and in which venues?",
+        "cosine_similarity": 0.8668980002403259,
+        "winning_candidate": {
+            "s": "Annie Gentes and Marie Cambone: Designing empathy: the role of a \"control room\" in an e-learning environment. (2013)",
+            "p": "authored by",
+            "o": "Marie Cambone"
+        }
+    },
+    {
+        "question": "List the titles of the papers that Strenzke, Falko published in the last 7 years and in which venues.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which publications did Woodman, Mark author and in which year?",
+        "cosine_similarity": 0.8479704856872559,
+        "winning_candidate": {
+            "s": "Tosca Lahiri and Mark Woodman: Web Service Standards: Do we need them? (2006)",
+            "p": "authored by",
+            "o": "Mark Woodman"
+        }
+    },
+    {
+        "question": "Who are the co-authors of Alexandre Meyer in the last 2 years and where are they affiliated?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "List the titles of the papers that Stefan Eickeler published and in which venues.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which venues did Felipe S. Abrah\\u00E3o publish papers in the last 8 years and what are the titles of these papers?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Who are the co-authors of N. Ole Salscheider and where are they affiliated?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the papers published by Anastasios G. Bakirtzis and in which year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "List the papers published by Guo, Yike and in which year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What are the titles of the papers that Siyuan Xiang published in the last five years and in which venues?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which publications did Marcel Morisse author and in which year?",
+        "cosine_similarity": 0.8383800983428955,
+        "winning_candidate": {
+            "s": "Marcel Morisse and Karsten Zimmermann: A theoretical based categorization scheme for IT strategies. (2011)",
+            "p": "authored by",
+            "o": "Marcel Morisse"
+        }
+    },
+    {
+        "question": "Mention the other authors with whom A. F. J. van Raan has co-authored papers in the last eight years and where are they affiliated.",
+        "cosine_similarity": 0.9035738706588745,
+        "winning_candidate": {
+            "s": "Henk F. Moed and Anthony F. J. van Raan: Observations and hypotheses on the phenomenon of multiple citation to a research group's oeuvre. (1986)",
+            "p": "authored by",
+            "o": "Anthony F. J. van Raan"
+        }
+    },
+    {
+        "question": "Which publications did Francesco Mapelli author and in which year?",
+        "cosine_similarity": 0.8058624267578125,
+        "winning_candidate": {
+            "s": "Marcello Caramma et al.: A Blind & Readable Watermarking Technique for Color Images. (2000)",
+            "p": "authored by",
+            "o": "Francesco Mapelli"
+        }
+    },
+    {
+        "question": "What are the titles of the papers that the author Keerthiraj Nagaraj published in the last 2 years and in which venues?",
+        "cosine_similarity": 0.8677243590354919,
+        "winning_candidate": {
+            "s": "Keerthiraj Nagaraj et al.: Vulnerability Assessment and Classification based on Influence Metrics in Mobile Social Networks. (2019)",
+            "p": "authored by",
+            "o": "Keerthiraj Nagaraj"
+        }
+    },
+    {
+        "question": "With which other authors has Xiaojie Yuan co-authored papers in the last 2 years and where are they affiliated?",
+        "cosine_similarity": 0.8594563007354736,
+        "winning_candidate": {
+            "s": "Haowen Zhang et al.: Authorship Attribution for Short Texts with Author-Document Topic Model. (2018)",
+            "p": "authored by",
+            "o": "Xiaojie Yuan"
+        }
+    },
+    {
+        "question": "With which other authors has Henk Jan Bergveld co-authored papers in the last nine years and where are they affiliated?",
+        "cosine_similarity": 0.8827258348464966,
+        "winning_candidate": {
+            "s": "Kees van Kaam et al.: Test and debug features of the RTO7 chip. (2005)",
+            "p": "authored by",
+            "o": "Henk Jan Bergveld"
+        }
+    },
+    {
+        "question": "In which venues did the author Jingfa Liu publish papers and what are the titles of these papers?",
+        "cosine_similarity": 0.86136394739151,
+        "winning_candidate": {
+            "s": "Binping Zhao et al.: Multi-objective classification based on NSGA-II. (2018)",
+            "p": "authored by",
+            "o": "Jingfa Liu"
+        }
+    },
+    {
+        "question": "In which venues did the author Shibin Gao publish papers in the last nine years and what are the titles of these papers?",
+        "cosine_similarity": 0.8679395914077759,
+        "winning_candidate": {
+            "s": "Haiquan Zhao et al.: A new normalized LMAT algorithm and its performance analysis. (2014)",
+            "p": "authored by",
+            "o": "Shibin Gao"
+        }
+    },
+    {
+        "question": "Was the paper 'Classification of patient movement events captured with a 6-axis inertial sensor' published by the person named Jerome A. Rolia?",
+        "cosine_similarity": 0.8393067717552185,
+        "winning_candidate": {
+            "s": "Jason S. Aronoff et al.: Classification of patient movement events captured with a 6-axis inertial sensor. (2015)",
+            "p": "authored by",
+            "o": "Jerome A. Rolia"
+        }
+    },
+    {
+        "question": "Did J. P. Newbury publish the paper 'Immediate Turnround-An Elusive Goal' in the last 7 years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Did the author Eileen T. Kraemer publish the paper 'Design and Evaluation of a Diagrammatic Notation to Aid in the Understanding of Concurrency Concepts' in the last 4 years?",
+        "cosine_similarity": 0.8694683313369751,
+        "winning_candidate": {
+            "s": "Shaohua Xie et al.: Design and Evaluation of a Diagrammatic Notation to Aid in the Understanding of Concurrency Concepts. (2007)",
+            "p": "authored by",
+            "o": "Eileen T. Kraemer"
+        }
+    },
+    {
+        "question": "Did Cui, Yaping publish the paper 'Optimal Nonuniform Steady mmWave Beamforming for High-Speed Railway' in the last two years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Did the author Jarrod Trevathan publish the paper 'Targeting the Strategies of a Bid Sniper' in the last 7 years?",
+        "cosine_similarity": 0.892299473285675,
+        "winning_candidate": {
+            "s": "Jarrod Trevathan et al.: Targeting the Strategies of a Bid Sniper. (2011)",
+            "p": "authored by",
+            "o": "Jarrod Trevathan"
+        }
+    },
+    {
+        "question": "Did the author Lorenz Welter publish the paper 'Multiple Criss-Cross Deletion-Correcting Codes' in ISIT?",
+        "cosine_similarity": 0.9006450772285461,
+        "winning_candidate": {
+            "s": "Georg Maringer et al.: Feedback Insertion-Deletion Codes. (2021)",
+            "p": "authored by",
+            "o": "Lorenz Welter"
+        }
+    },
+    {
+        "question": "Has Shyu, Mei-Ling published in IEEE Trans. Geosci. Remote. Sens. in the last 8 years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Does Shun-ichi Amari have an ORCID?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Does the person Umut Orguner have an ORCID?",
+        "cosine_similarity": 0.8423076868057251,
+        "winning_candidate": {
+            "s": "Umut Orguner",
+            "p": "orcid",
+            "o": "https://orcid.org/0000-0002-7670-5635"
+        }
+    },
+    {
+        "question": "Was the paper 'An investigation of handheld device use by older adults with age-related macular degeneration' published by Julie A. Jacko?",
+        "cosine_similarity": 0.8599390387535095,
+        "winning_candidate": {
+            "s": "Julie A. Jacko et al.: Older adults and visual impairment: what do exposure times and accuracy tell us about performance gains associated with multimodal feedback? (2003)",
+            "p": "authored by",
+            "o": "Julie A. Jacko"
+        }
+    },
+    {
+        "question": "Did Runlong Yu publish in IEEE Trans. Knowl. Data Eng. in the last 8 years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Was the paper 'High resolution audio synchronization using chroma onset features' published by the author Meinard M\\u00FCller?",
+        "cosine_similarity": 0.8436081409454346,
+        "winning_candidate": {
+            "s": "Antoine Richard et al.: Transparency of Classification Systems for Clinical Decision Support. (2020)",
+            "p": "authored by",
+            "o": "Yves Meinard"
+        }
+    },
+    {
+        "question": "Did Gordon I. Dodds publish the paper 'Optimization of Collision Free Trajectories in Multi-Robot System'?",
+        "cosine_similarity": 0.8478327989578247,
+        "winning_candidate": {
+            "s": "Bailin Cao et al.: An approach to time-optimal, smooth and collision-free path planning in a two robot arm environment. (1996)",
+            "p": "authored by",
+            "o": "Gordon I. Dodds"
+        }
+    },
+    {
+        "question": "Does the author Tu, Ching-Ting have an ORCID?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Did the author Jason I. Hong publish the paper 'Matters of design, part II' in the last seven years?",
+        "cosine_similarity": 0.8936802744865417,
+        "winning_candidate": {
+            "s": "Jason I. Hong: Matters of design, part II. (2011)",
+            "p": "authored by",
+            "o": "Jason I. Hong"
+        }
+    },
+    {
+        "question": "Was the paper 'Desert bighorn sheep (Ovis canadensis) recognition from camera traps based on learned features' published by Luis Pellegrin in Ecol. Informatics?",
+        "cosine_similarity": 0.8315131068229675,
+        "winning_candidate": {
+            "s": "Manuel Vargas-Felipe et al.: Desert bighorn sheep (Ovis canadensis) recognition from camera traps based on learned features. (2021)",
+            "p": "authored by",
+            "o": "Luis Pellegrin"
+        }
+    },
+    {
+        "question": "Was the paper 'Input-output method to fault detection for discrete-time fuzzy networked systems with time-varying delay and multiple packet losses' published by the person Shenquan Wang?",
+        "cosine_similarity": 0.8600043654441833,
+        "winning_candidate": {
+            "s": "Yuenan Wang et al.: Fault Detection and Controller Co-Design for Nonlinear Delayed Switched Systems Based on Mode-Dependent Average Dwell Time Under Asynchronous Switching. (2021)",
+            "p": "authored by",
+            "o": "Shenquan Wang"
+        }
+    },
+    {
+        "question": "Did Salvador John M. Magalong publish the paper 'Effects of flipped classroom approach using gooru learning management system on students' physics achievement' in the last 6 years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Was the paper 'Reinforcement Learning for Matrix Computations: PageRank as an Example' published by the person named Adwaitvedant S. Mathkar?",
+        "cosine_similarity": 0.8613920211791992,
+        "winning_candidate": {
+            "s": "Vivek S. Borkar and Adwaitvedant S. Mathkar: Reinforcement Learning for Matrix Computations: PageRank as an Example. (2013)",
+            "p": "authored by",
+            "o": "Adwaitvedant S. Mathkar"
+        }
+    },
+    {
+        "question": "Have Laurent Spinelli and Gilles Pourtois co-authored the paper 'Modulation of Face Processing by Emotional Expression and Gaze Direction during Intracranial Recordings in Right Fusiform Cortex'?",
+        "cosine_similarity": 0.8922094702720642,
+        "winning_candidate": {
+            "s": "Gilles Pourtois et al.: Modulation of Face Processing by Emotional Expression and Gaze Direction during Intracranial Recordings in Right Fusiform Cortex. (2010)",
+            "p": "authored by",
+            "o": "Laurent Spinelli"
+        }
+    },
+    {
+        "question": "Did the author Francisco Claude publish the paper 'On the reproducibility of experiments of indexing repetitive document collections' in the last 3 years?",
+        "cosine_similarity": 0.8877379894256592,
+        "winning_candidate": {
+            "s": "Antonio Fari\u00f1a et al.: On the Reproducibility of Experiments of Indexing Repetitive Document Collections. (2020)",
+            "p": "authored by",
+            "o": "Francisco Claude"
+        }
+    },
+    {
+        "question": "Does the person named B\\u00FCndgen, Reinhard have an ORCID?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Has the author Mandjes, Michel published in Computing and Software Science in the last seven years?",
+        "cosine_similarity": 0.8968081474304199,
+        "winning_candidate": {
+            "s": "Remco van de Meent et al.: Gaussian traffic everywhere? (2006)",
+            "p": "authored by",
+            "o": "Michel Mandjes"
+        }
+    },
+    {
+        "question": "Does the author Peter \\u00D8hrstr\\u00F8m have an ORCID?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Did Hideo Kitajima and Takahiro Ogawa co-author the paper 'Restoration of missing intensity of still images by using optical flow'?",
+        "cosine_similarity": 0.8683947920799255,
+        "winning_candidate": {
+            "s": "Takahiro Ogawa et al.: Restoration method of missing areas in still images using GMRF model. (2005)",
+            "p": "authored by",
+            "o": "Hideo Kitajima"
+        }
+    },
+    {
+        "question": "Did the author Warner, Richard publish the paper 'CS + X Meets CS 1: Strongly Themed Intro Courses' in the last 9 years?",
+        "cosine_similarity": 0.9036550521850586,
+        "winning_candidate": {
+            "s": "Robert H. Sloan et al.: CS + X Meets CS 1: Strongly Themed Intro Courses. (2020)",
+            "p": "authored by",
+            "o": "Richard Warner"
+        }
+    },
+    {
+        "question": "Did Koymans, Ron publish the paper 'Examples of a Real-Time Temporal Logic Specification' in the last nine years?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Did the authors Mohamed Jarraya and Omar Khedher co-author the paper 'Improved scheduling algorithm in VCL Cloud computing environment on CloudSim'?",
+        "cosine_similarity": 0.835686206817627,
+        "winning_candidate": {
+            "s": "Faten Omri et al.: Cloud-based mobile system for biometrics authentication. (2013)",
+            "p": "authored by",
+            "o": "Mohamed Jarraya"
+        }
+    },
+    {
+        "question": "Did the author S. Chatzinotas publish the paper 'Satellite Broadband Capacity-on-Demand: Dynamic Beam Illumination with Selective Precoding' in EUSIPCO?",
+        "cosine_similarity": 0.8105688095092773,
+        "winning_candidate": {
+            "s": "Christos G. Tsinos et al.: Dual-Function Radar-Communication Systems with Constant-Modulus and Similarity Constraints. (2022)",
+            "p": "authored by",
+            "o": "Symeon Chatzinotas"
+        }
+    },
+    {
+        "question": "Has the paper 'Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows' not been published by Kevin Summers in RFC?",
+        "cosine_similarity": 0.8896984457969666,
+        "winning_candidate": {
+            "s": "Alan B. Johnston et al.: Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows. (2003)",
+            "p": "authored by",
+            "o": "Kevin Summers"
+        }
+    },
+    {
+        "question": "Didn't Carsten Bormann publish the paper 'Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures' in RFC?",
+        "cosine_similarity": 0.8348720669746399,
+        "winning_candidate": {
+            "s": "Henk Birkholz et al.: Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures. (2019)",
+            "p": "authored by",
+            "o": "Carsten Bormann"
+        }
+    },
+    {
+        "question": "Didn't Heather L. Nachtmann publish the paper 'A 0-1 quadratic programme for the case of missing data in regression'?",
+        "cosine_similarity": 0.8689755797386169,
+        "winning_candidate": {
+            "s": "Brian K. Smith et al.: A 0-1 quadratic programme for the case of missing data in regression. (2014)",
+            "p": "authored by",
+            "o": "Heather L. Nachtmann"
+        }
+    },
+    {
+        "question": "Did W. Haebich not publish in TOOLS?",
+        "cosine_similarity": 0.8735796809196472,
+        "winning_candidate": {
+            "s": "William Haebich: A Quantitative Model to Support Data Quality Improvement. (1997)",
+            "p": "authored by",
+            "o": "William Haebich"
+        }
+    },
+    {
+        "question": "Has the paper 'Asynchronous Deep Model Reference Adaptive Control' not been published by Jasvir Virdi?",
+        "cosine_similarity": 0.9091590642929077,
+        "winning_candidate": {
+            "s": "Girish Joshi et al.: Asynchronous Deep Model Reference Adaptive Control. (2020)",
+            "p": "authored by",
+            "o": "Jasvir Virdi"
+        }
+    },
+    {
+        "question": "Did the author Mohammad Esmalifalak not publish the paper 'Stealth false data injection using independent component analysis in smart grid'?",
+        "cosine_similarity": 0.8969555497169495,
+        "winning_candidate": {
+            "s": "Mohammad Esmalifalak et al.: Bad Data Injection Attack and Defense in Electricity Market using Game Theory Study (2012)",
+            "p": "authored by",
+            "o": "Mohammad Esmalifalak"
+        }
+    },
+    {
+        "question": "Has Chochlov, M. not published in International Conference on Engineering Applications of Neural Networks?",
+        "cosine_similarity": 0.8954005241394043,
+        "winning_candidate": {
+            "s": "Ziyuan Ma et al.: Do Weibo Platform Experts Perform Better at Predicting Stock Market? (2021)",
+            "p": "authored by",
+            "o": "Muslim Chochlov"
+        }
+    },
+    {
+        "question": "Did the author Fernando de la Prieta not publish in DCAI?",
+        "cosine_similarity": 0.8604170083999634,
+        "winning_candidate": {
+            "s": "Eva Lahuerta-Otero et al.: Retweet or like? That is the question. (2018)",
+            "p": "authored by",
+            "o": "Fernando de la Prieta"
+        }
+    },
+    {
+        "question": "Has the paper 'Toward a theory of coactivation patterns in excitable neural networks' not been published by C. C. Hilgetag in PLoS Comput. Biol.?",
+        "cosine_similarity": 0.8777050375938416,
+        "winning_candidate": {
+            "s": "Guadalupe Garc\u00eda et al.: Building Blocks of Self-Sustained Activity in a Simple Deterministic Model of Excitable Neural Networks. (2012)",
+            "p": "authored by",
+            "o": "Claus C. Hilgetag"
+        }
+    },
+    {
+        "question": "Did Luca Cazzanti not publish in IEEE BigData?",
+        "cosine_similarity": 0.8765237927436829,
+        "winning_candidate": {
+            "s": "Luca Cazzanti et al.: Multi-task Regularization of Generative Similarity Models. (2011)",
+            "p": "authored by",
+            "o": "Luca Cazzanti"
+        }
+    },
+    {
+        "question": "Did the author E. Birney not publish in Database J. Biol. Databases Curation?",
+        "cosine_similarity": 0.8533822298049927,
+        "winning_candidate": {
+            "s": "Rasko Leinonen et al.: The European Nucleotide Archive. (2011)",
+            "p": "authored by",
+            "o": "Ewan Birney"
+        }
+    },
+    {
+        "question": "Did the author Rebula, John R. not publish in IEEE International Conference on Robotics and Automation?",
+        "cosine_similarity": 0.8537552356719971,
+        "winning_candidate": {
+            "s": "John R. Rebula et al.: A Robustness Analysis of Inverse Optimal Control of Bipedal Walking. (2021)",
+            "p": "authored by",
+            "o": "John R. Rebula"
+        }
+    },
+    {
+        "question": "Did Ijaz Bukhari not publish the paper 'Early Detection of Alzheimer's - A Crucial Requirement' in CoRR?",
+        "cosine_similarity": 0.8358153700828552,
+        "winning_candidate": {
+            "s": "Ijaz Bukhari: Early Detection of Alzheimer's - A Crucial Requirement (2013)",
+            "p": "authored by",
+            "o": "Ijaz Bukhari"
+        }
+    },
+    {
+        "question": "Have Marchesi, Michele and Ljubisa Stankovic not co-authored the paper 'OOA Metrics for the Unified Modeling Language'?",
+        "cosine_similarity": 0.8458657264709473,
+        "winning_candidate": {
+            "s": "Matteo Orr\u00f9 et al.: How Do Python Programs Use Inheritance? A Replication Study. (2015)",
+            "p": "authored by",
+            "o": "Michele Marchesi"
+        }
+    },
+    {
+        "question": "Didn't Luigi Acerbi publish the paper 'Surjective multidimensional cellular automata are non-wandering: A combinatorial proof' in Inf. Process. Lett.?",
+        "cosine_similarity": 0.8566519021987915,
+        "winning_candidate": {
+            "s": "Luigi Acerbi et al.: Surjective multidimensional cellular automata are non-wandering: A combinatorial proof. (2013)",
+            "p": "authored by",
+            "o": "Luigi Acerbi"
+        }
+    },
+    {
+        "question": "Did the author Valery U. Zavorotny not publish in IEEE Trans. Geosci. Remote. Sens.?",
+        "cosine_similarity": 0.8585365414619446,
+        "winning_candidate": {
+            "s": "Albin J. Gasiewski and Valery U. Zavorotny: Estimation of coupling between mobile vehicular radars and satellite radiometers. (2003)",
+            "p": "authored by",
+            "o": "Valery U. Zavorotny"
+        }
+    },
+    {
+        "question": "Was the paper 'Comparative analysis of intelligent algorithms to correlate strength and petrographic properties of some schistose rocks' not co-authored by the authors Singh, T. Nath and Amit Kumar Verma?",
+        "cosine_similarity": 0.8245474696159363,
+        "winning_candidate": {
+            "s": "Hemant Kumar Sahu and Surya Nath Singh: Information seeking behaviour of astronomy/astrophysics scientists. (2013)",
+            "p": "authored by",
+            "o": "Surya Nath Singh"
+        }
+    },
+    {
+        "question": "Did the author M. Boloursaz Mashhadi not publish in CoRR?",
+        "cosine_similarity": 0.870339035987854,
+        "winning_candidate": {
+            "s": "Matteo Zecchin et al.: A Novel Look at LIDAR-aided Data-driven mmWave Beam Selection. (2021)",
+            "p": "authored by",
+            "o": "Mahdi Boloursaz Mashhadi"
+        }
+    },
+    {
+        "question": "Wasn't the paper 'Let's Keep It Safe: Designing User Interfaces that Allow Everyone to Contribute to AI Safety' not published by the person named Travis Mandel?",
+        "cosine_similarity": 0.8576496243476868,
+        "winning_candidate": {
+            "s": "Travis Mandel: Towards More Practical Reinforcement Learning. (2015)",
+            "p": "authored by",
+            "o": "Travis Mandel"
+        }
+    },
+    {
+        "question": "Was the paper 'Verification of routing policies by using model checking technique' not published by Charuwalee Huadmai in IDAACS?",
+        "cosine_similarity": 0.8738120794296265,
+        "winning_candidate": {
+            "s": "Charuwalee Huadmai: Verification of routing policies by using model checking technique. (2011)",
+            "p": "authored by",
+            "o": "Charuwalee Huadmai"
+        }
+    },
+    {
+        "question": "Was the paper 'Galton Board' not published by M. Yu. Mitrofanova?",
+        "cosine_similarity": 0.879356861114502,
+        "winning_candidate": {
+            "s": "V. V. Kozlov and M. Yu. Mitrofanova: Galton Board (2005)",
+            "p": "authored by",
+            "o": "M. Yu. Mitrofanova"
+        }
+    },
+    {
+        "question": "Was the paper 'Image Statistics as Glossiness and Translucency Predictor in Photographs of Real-world Objects' not published by Tanaka, Midori in CVCS?",
+        "cosine_similarity": 0.8876219391822815,
+        "winning_candidate": {
+            "s": "Donghui Li et al.: Glossiness Index of Objects in Halftone Color Images Based on Structure and Appearance Distortion. (2022)",
+            "p": "authored by",
+            "o": "Midori Tanaka"
+        }
+    },
+    {
+        "question": "Did Michael Nebeling not publish the paper 'XDBrowser 20: Semi-Automatic Generation of Cross-Device Interfaces'?",
+        "cosine_similarity": 0.8551376461982727,
+        "winning_candidate": {
+            "s": "Mustafa Doga Dogan et al.: Fabricate It or Render It? Digital Fabrication vs. Virtual Reality for Creating Objects Instantly. (2022)",
+            "p": "authored by",
+            "o": "Michael Nebeling"
+        }
+    },
+    {
+        "question": "Was the paper 'Die Grenzen der Digitalisierung Neubestimmung der hybriden Handlungstr\\u00E4gerschaft zwischen Mensch und Technik und Implikationen f\\u00FCr eine humane Technikgestaltung' not published by Huchler, Norbert?",
+        "cosine_similarity": 0.8506855368614197,
+        "winning_candidate": {
+            "s": "Norbert Huchler: Die Grenzen der Digitalisierung. Neubestimmung der hybriden Handlungstr\u00e4gerschaft zwischen Mensch und Technik und Implikationen f\u00fcr eine humane Technikgestaltung. (2016)",
+            "p": "authored by",
+            "o": "Norbert Huchler"
+        }
+    },
+    {
+        "question": "Was the paper 'Teaching Powerful Ideas With Autonomous Mobile Robots' not published by Rolf Pfeifer?",
+        "cosine_similarity": 0.8551331758499146,
+        "winning_candidate": {
+            "s": "Christian Scheier and Rolf Pfeifer: Classification as Sensory-Motor Coordination: A Case Study on Autonomous Agents. (1995)",
+            "p": "authored by",
+            "o": "Rolf Pfeifer"
+        }
+    },
+    {
+        "question": "Was the paper 'An active set quadratic programming algorithm for real-time model predictive control' not published by the person Das, Indraneel?",
+        "cosine_similarity": 0.8283805847167969,
+        "winning_candidate": {
+            "s": "Indraneel Das: An active set quadratic programming algorithm for real-time model predictive control. (2006)",
+            "p": "authored by",
+            "o": "Indraneel Das"
+        }
+    },
+    {
+        "question": "Have M. Vauth and Vo, N. Phuoc An not co-authored the paper 'Netzwerkanalyse narrativer Informationsvermittlung in Dramen'?",
+        "cosine_similarity": 0.8178354501724243,
+        "winning_candidate": {
+            "s": "Michael Vauth: Netzwerkanalyse narrativer Informationsvermittlung in Dramen. (2019)",
+            "p": "authored by",
+            "o": "Michael Vauth"
+        }
+    },
+    {
+        "question": "Did the author Ming Sun Fu not publish in IEEE International Conference on Multimedia and Expo?",
+        "cosine_similarity": 0.8196127414703369,
+        "winning_candidate": {
+            "s": "Ming Sun Fu and Oscar C. Au: A novel self conjugate halftone image watermarking technique. (2003)",
+            "p": "authored by",
+            "o": "Ming Sun Fu"
+        }
+    },
+    {
+        "question": "Has the author Phooi Yee Lau not published in Int. J. Comput. Vis. Robotics?",
+        "cosine_similarity": 0.8832716345787048,
+        "winning_candidate": {
+            "s": "Wai Chun Phoon and Phooi Yee Lau: Real-Time Forward Collision Alert System using Raspberry Pi. (2019)",
+            "p": "authored by",
+            "o": "Phooi Yee Lau"
+        }
+    },
+    {
+        "question": "Has Karyn E. Chappell not published in Comput. Medical Imaging Graph.?",
+        "cosine_similarity": 0.9094423651695251,
+        "winning_candidate": {
+            "s": "Karyn E. Chappell",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Karyn E. Chappell"
+        }
+    },
+    {
+        "question": "Was the paper 'WasabiBeans - Web Application Services and Business Integration' not published by the person Jonas Schulte?",
+        "cosine_similarity": 0.8340258598327637,
+        "winning_candidate": {
+            "s": "Jonas Schulte: WasabiBeans - Web Application Services and Business Integration. (2011)",
+            "p": "authored by",
+            "o": "Jonas Schulte"
+        }
+    },
+    {
+        "question": "Has the paper 'Swarm Optimization of Structuring Elements for VHR Image Classification' not not been published by Naif Alajlan?",
+        "cosine_similarity": 0.9062816500663757,
+        "winning_candidate": {
+            "s": "Abdelhamid Daamouche et al.: Swarm Optimization of Structuring Elements for VHR Image Classification. (2013)",
+            "p": "authored by",
+            "o": "Naif Alajlan"
+        }
+    },
+    {
+        "question": "Was the paper 'Adaptation in Constant Utility Non-Stationary Environments' not not published by Littman, M. L.?",
+        "cosine_similarity": 0.8432863354682922,
+        "winning_candidate": {
+            "s": "Bowen He et al.: Does DQN really learn? Exploring adversarial training schemes in Pong. (2022)",
+            "p": "authored by",
+            "o": "Michael L. Littman"
+        }
+    },
+    {
+        "question": "Hasn't Protima N. Sudro not published in 2018?",
+        "cosine_similarity": 0.8462774157524109,
+        "winning_candidate": {
+            "s": "Sishir Kalita et al.: Nasal Air Emission in Sibilant Fricatives of Cleft Lip and Palate Speech. (2019)",
+            "p": "authored by",
+            "o": "Protima Nomo Sudro"
+        }
+    },
+    {
+        "question": "Was the paper 'Design and Modeling of ADPLL with sliding-window for wide range frequency tracking' not not published by the person Dimitri Galayko?",
+        "cosine_similarity": 0.8526010513305664,
+        "winning_candidate": {
+            "s": "Dimitri Galayko and Philippe Basset: A General Analytical Tool for the Design of Vibration Energy Harvesters (VEHs) Based on the Mechanical Impedance Concept. (2011)",
+            "p": "authored by",
+            "o": "Dimitri Galayko"
+        }
+    },
+    {
+        "question": "Has A. M. C. Ficker not not published in 2016?",
+        "cosine_similarity": 0.8738266229629517,
+        "winning_candidate": {
+            "s": "Annette M. C. Ficker et al.: The transportation problem with conflicts. (2021)",
+            "p": "authored by",
+            "o": "Annette M. C. Ficker"
+        }
+    },
+    {
+        "question": "Wasn't the paper 'Virtual traffic lights: Managing intersections in the cloud' not not published by the author Nicolas Gay?",
+        "cosine_similarity": 0.8922590017318726,
+        "winning_candidate": {
+            "s": "Wolfgang M\u00fcnst et al.: Virtual traffic lights: Managing intersections in the cloud. (2015)",
+            "p": "authored by",
+            "o": "Nicolas Gay"
+        }
+    },
+    {
+        "question": "Has the author B. Mohn not not published in 2010?",
+        "cosine_similarity": 0.8815624117851257,
+        "winning_candidate": {
+            "s": "Wolfgang Haas and Reinhard Mohn: UNIX in der kommerziellen Datenverarbeitung. (1987)",
+            "p": "authored by",
+            "o": "Reinhard Mohn"
+        }
+    },
+    {
+        "question": "Has Daqing Yi not not published the paper 'Sampling of Pareto-Optimal Trajectories Using Progressive Objective Evaluation in Multi-Objective Motion Planning'?",
+        "cosine_similarity": 0.8537378907203674,
+        "winning_candidate": {
+            "s": "Jeongseok Lee et al.: Sampling of Pareto-Optimal Trajectories Using Progressive Objective Evaluation in Multi-Objective Motion Planning. (2018)",
+            "p": "authored by",
+            "o": "Daqing Yi"
+        }
+    },
+    {
+        "question": "Did Danny Dolev not not publish in 1983?",
+        "cosine_similarity": 0.8717913627624512,
+        "winning_candidate": {
+            "s": "Danny Dolev: The Byzantine Generals Strike Again. (1982)",
+            "p": "authored by",
+            "o": "Danny Dolev"
+        }
+    },
+    {
+        "question": "Has the paper 'Automatic Code Generation for Parallel Finite Element Solvers' not not been published by Frans N. C. Slothouber?",
+        "cosine_similarity": 0.8789279460906982,
+        "winning_candidate": {
+            "s": "J. J. Heijstek et al.: Automatic Code Generation for Parallel Finite Element Solvers. (1995)",
+            "p": "authored by",
+            "o": "Frans N. C. Slothouber"
+        }
+    },
+    {
+        "question": "Has Zuccon, Guido not not published the paper 'Relevation!: an open source system for information retrieval relevance assessment'?",
+        "cosine_similarity": 0.9015970826148987,
+        "winning_candidate": {
+            "s": "Anton van der Vegt et al.: Do better search engines really equate to better clinical decisions? If not, why not? (2021)",
+            "p": "authored by",
+            "o": "Guido Zuccon"
+        }
+    },
+    {
+        "question": "Did the author Chris Buckley not not publish in 1988?",
+        "cosine_similarity": 0.8596768975257874,
+        "winning_candidate": {
+            "s": "Chris Buckley: Why current IR engines fail. (2009)",
+            "p": "authored by",
+            "o": "Chris Buckley"
+        }
+    },
+    {
+        "question": "Wasn't the paper 'QWRP: Query-driven virtual wheel based routing protocol for wireless sensor networks with mobile sink' not not published by the author Anupam Shukla?",
+        "cosine_similarity": 0.8808121681213379,
+        "winning_candidate": {
+            "s": "Chiranjib Sur and Anupam Shukla: Discrete Cuckoo Search Optimization Algorithm for Combinatorial Optimization of Vehicle Route in Graph Based Road Network. (2013)",
+            "p": "authored by",
+            "o": "Anupam Shukla"
+        }
+    },
+    {
+        "question": "Have Tuisov, Alexander and Yedidsion, L. not not co-authored a paper?",
+        "cosine_similarity": 0.9029901623725891,
+        "winning_candidate": {
+            "s": "Alexander Tuisov and Erez Karpas: Automated Verification of Social Law Robustness for Reactive Agents. (2020)",
+            "p": "authored by",
+            "o": "Alexander Tuisov"
+        }
+    },
+    {
+        "question": "Didn't Rataj, A. not publish in 2003?",
+        "cosine_similarity": 0.8992047905921936,
+        "winning_candidate": {
+            "s": "Joanna Wojcik and Malgorzata Rataj: Learning objects lost in the network. (2020)",
+            "p": "authored by",
+            "o": "Malgorzata Rataj"
+        }
+    },
+    {
+        "question": "Didn't Stojanovski, Saso and Maurice Gagnaire not co-author a paper?",
+        "cosine_similarity": 0.8565896153450012,
+        "winning_candidate": {
+            "s": "Maurice Gagnaire and Saso Stojanovski: Stream traffic management over an ATM passive optical network. (2000)",
+            "p": "authored by",
+            "o": "Saso Stojanovski"
+        }
+    },
+    {
+        "question": "Have Aftandilian, E. and Samuel Z. Guyer not not co-authored a paper?",
+        "cosine_similarity": 0.8700978755950928,
+        "winning_candidate": {
+            "s": "Lin Lawrence Guo et al.: Systematic Review of Approaches to Preserve Machine Learning Performance in the Presence of Temporal Dataset Shift in Clinical Medicine. (2021)",
+            "p": "authored by",
+            "o": "Catherine Aftandilian"
+        }
+    },
+    {
+        "question": "Has Rainer Moorfeld not not published the paper 'Performance of energy detection in NLOS frequency-selective fading channels'?",
+        "cosine_similarity": 0.8986390233039856,
+        "winning_candidate": {
+            "s": "Martin Bober et al.: Performance of energy detection in NLOS frequency-selective fading channels. (2011)",
+            "p": "authored by",
+            "o": "Rainer Moorfeld"
+        }
+    },
+    {
+        "question": "Didn't Kui Fu Chen not publish the paper 'Composite Interpolated Fast Fourier Transform With the Hanning Window'?",
+        "cosine_similarity": 0.8721435070037842,
+        "winning_candidate": {
+            "s": "Kui Fu Chen: Estimating Parameters of a Sine Wave by Separable Nonlinear Least Squares Fitting. (2010)",
+            "p": "authored by",
+            "o": "Kui Fu Chen"
+        }
+    },
+    {
+        "question": "Didn't Cassandras, Christos G. and Christoforos Panayiotou not co-author a paper?",
+        "cosine_similarity": 0.8719840049743652,
+        "winning_candidate": {
+            "s": "Christos G. Cassandras: Welcome from the General Chair. (2004)",
+            "p": "authored by",
+            "o": "Christos G. Cassandras"
+        }
+    },
+    {
+        "question": "Wasn't the paper 'Cardiac Electrical Alternans in Pregnancy: an Observational Study' not not published by the person named Raffaella Assogna?",
+        "cosine_similarity": 0.8793492913246155,
+        "winning_candidate": {
+            "s": "Ilaria Marcantoni et al.: Cardiac Electrical Alternans in Pregnancy: an Observational Study. (2021)",
+            "p": "authored by",
+            "o": "Raffaella Assogna"
+        }
+    },
+    {
+        "question": "Has Beverley F. Ronalds not not published in 2016?",
+        "cosine_similarity": 0.891071081161499,
+        "winning_candidate": {
+            "s": "Beverley F. Ronalds: Francis Ronalds (1788-1873): The First Electrical Engineer? (2016)",
+            "p": "authored by",
+            "o": "Beverley F. Ronalds"
+        }
+    },
+    {
+        "question": "Has the paper 'A new filtering method for the Cauchy problem of the Laplace equation' not not been published by Feng, Xiao-Li?",
+        "cosine_similarity": 0.9019008278846741,
+        "winning_candidate": {
+            "s": "Hao Cheng et al.: An optimal filtering method for the Cauchy problem of the Helmholtz equation. (2011)",
+            "p": "authored by",
+            "o": "Xiao-Li Feng"
+        }
+    },
+    {
+        "question": "Has the author Yeo, Tat Soon not not published in 2016?",
+        "cosine_similarity": 0.89533531665802,
+        "winning_candidate": {
+            "s": "Qun Zhang and Tat Soon Yeo: Novel registration technique of InISAR and InSAR. (2003)",
+            "p": "authored by",
+            "o": "Tat Soon Yeo"
+        }
+    },
+    {
+        "question": "Did Kimmes, Nicole S. not not publish in 2014?",
+        "cosine_similarity": 0.8857320547103882,
+        "winning_candidate": {
+            "s": "Muhammad F. Walji et al.: Are three methods better than one? A comparative assessment of usability evaluation methods in an EHR. (2014)",
+            "p": "authored by",
+            "o": "Nicole S. Kimmes"
+        }
+    },
+    {
+        "question": "Has the author Stefan M. Wild not not published in 2015?",
+        "cosine_similarity": 0.9061359763145447,
+        "winning_candidate": {
+            "s": "Robert B. Gramacy et al.: Rejoinder. (2016)",
+            "p": "authored by",
+            "o": "Stefan M. Wild"
+        }
+    },
+    {
+        "question": "Has the paper 'Real-time Industrial Visual Inspection: A Review' not not been published by Rodd, Michael G.?",
+        "cosine_similarity": 0.8719185590744019,
+        "winning_candidate": {
+            "s": "Andrew D. H. Thomas et al.: Real-time Industrial Visual Inspection: A Review. (1995)",
+            "p": "authored by",
+            "o": "Michael G. Rodd"
+        }
+    },
+    {
+        "question": "Fowlkes, Charless C. and Burl, Michael C. published which papers in International Conference on Scientific and Statistical Data Base Management?",
+        "cosine_similarity": 0.7511980533599854,
+        "winning_candidate": {
+            "s": "Bj\u00f6rn Andres et al.: Segmenting Planar Superpixel Adjacency Graphs w.r.t. Non-planar Superpixel Affinity Graphs. (2013)",
+            "p": "authored by",
+            "o": "Charless C. Fowlkes"
+        }
+    },
+    {
+        "question": "List all the primary affiliations of Raban, D. R. and Sheizaf Rafaeli.",
+        "cosine_similarity": 0.8569859266281128,
+        "winning_candidate": {
+            "s": "Daphne R. Raban",
+            "p": "primary affiliation",
+            "o": "University of Haifa, Israel"
+        }
+    },
+    {
+        "question": "List all the papers that Charles Spence and Yuechai Lin published.",
+        "cosine_similarity": 0.8662045001983643,
+        "winning_candidate": {
+            "s": "Charles Spence",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Charles Spence"
+        }
+    },
+    {
+        "question": "Kim, Sung-Suk and B. John Oommen have which primary affiliations?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What are the papers that Pei Xiao and Mathini Sellathurai published?",
+        "cosine_similarity": 0.8486776351928711,
+        "winning_candidate": {
+            "s": "Md. Noor-A.-Rahim et al.: A Survey on Resource Allocation in Vehicular Networks. (2022)",
+            "p": "authored by",
+            "o": "Pei Xiao"
+        }
+    },
+    {
+        "question": "What are the papers that P. Belsis and Stefanos Gritzalis published in AIAI?",
+        "cosine_similarity": 0.8547582626342773,
+        "winning_candidate": {
+            "s": "Theodoros Alevizos et al.: Fuzzy Interval Number (FIN) Techniques for Multilingual and Cross Language Information Retrieval. (2007)",
+            "p": "authored by",
+            "o": "Petros Belsis"
+        }
+    },
+    {
+        "question": "In IEEE Trans. Image Process. and IEEE Trans. Biomed. Eng., what papers did Kuk-Jin Yoon publish?",
+        "cosine_similarity": 0.8104106187820435,
+        "winning_candidate": {
+            "s": "Kuk-Jin Yoon et al.: Moving Object Segmentation Based on Human Visual Sensitivity. (2000)",
+            "p": "authored by",
+            "o": "Kuk-Jin Yoon"
+        }
+    },
+    {
+        "question": "What publications did the author Decong Y. publish in ACIVS and ICIS?",
+        "cosine_similarity": 0.839245080947876,
+        "winning_candidate": {
+            "s": "Shifang Wang et al.: Prediction of the Soil Organic Matter (SOM) Content from Moist Soil Using Synchronous Two-Dimensional Correlation Spectroscopy (2D-COS) Analysis. (2020)",
+            "p": "authored by",
+            "o": "Decong Zheng"
+        }
+    },
+    {
+        "question": "What publications did the author Samet, Hanan publish in SSD and WiOpt?",
+        "cosine_similarity": 0.9055919051170349,
+        "winning_candidate": {
+            "s": "Hanan Samet and Aya Soffer: MARCO: MAp Retrieval by COntent. (1996)",
+            "p": "authored by",
+            "o": "Hanan Samet"
+        }
+    },
+    {
+        "question": "List all the papers that Carlo Bernaschina and Emanuele Falzone published in ICWE Workshops.",
+        "cosine_similarity": 0.8691728115081787,
+        "winning_candidate": {
+            "s": "Carlo Bernaschina",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Carlo Bernaschina"
+        }
+    },
+    {
+        "question": "List all the papers that Steve Renals published in Association of Computational Linguistics and WebNet.",
+        "cosine_similarity": 0.885530412197113,
+        "winning_candidate": {
+            "s": "Steve Renals",
+            "p": "web page URL",
+            "o": "https://scholar.google.com/citations?user=hERDiOEAAAAJ"
+        }
+    },
+    {
+        "question": "In WESS and Machine Learning for Health Informatics, what papers did Edgar Mateos publish?",
+        "cosine_similarity": 0.8953689336776733,
+        "winning_candidate": {
+            "s": "Edgar Mateos and Catherine H. Gebotys: A new correlation frequency analysis of the side channel. (2010)",
+            "p": "authored by",
+            "o": "Edgar Mateos"
+        }
+    },
+    {
+        "question": "What publications did the author Sejtes, G. publish in Acta Cybern. and IEEE Access?",
+        "cosine_similarity": 0.8631245493888855,
+        "winning_candidate": {
+            "s": "Gyula Zsigri et al.: Phonetic Level Annotation and Segmentation of Hungarian Speech Databases. (2004)",
+            "p": "authored by",
+            "o": "Gy\u00f6rgyi Sejtes"
+        }
+    },
+    {
+        "question": "List all the papers that Rodney A. Pearson and Kent Marett published.",
+        "cosine_similarity": 0.8875792026519775,
+        "winning_candidate": {
+            "s": "Rodney A. Pearson",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Rodney A. Pearson"
+        }
+    },
+    {
+        "question": "List all the papers that Kentaro Inui published in MICAI and WAIM.",
+        "cosine_similarity": 0.9014886021614075,
+        "winning_candidate": {
+            "s": "Kentaro Inui",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Kentaro Inui"
+        }
+    },
+    {
+        "question": "List all the primary affiliations of Garc\\u00EDa-Pe\\u00F1alvo, F. J. and Ana Mar\\u00EDa Pinto Llorente.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "A. Sevastopolsky and Victor S. Lempitsky published which papers?",
+        "cosine_similarity": 0.8147303462028503,
+        "winning_candidate": {
+            "s": "Alexander S. Rattner et al.: Framework and algorithms for illustrative visualizations of time-varying flows on unstructured meshes. (2016)",
+            "p": "authored by",
+            "o": "Alexander S. Rattner"
+        }
+    },
+    {
+        "question": "What are all the papers that Marilyn D. Paterno and David W. Bates published?",
+        "cosine_similarity": 0.8825799226760864,
+        "winning_candidate": {
+            "s": "Michael J. Franklin et al.: An Easy to Use Tool for Creating and Maintaining User Dialogs. (1997)",
+            "p": "authored by",
+            "o": "Marilyn D. Paterno"
+        }
+    },
+    {
+        "question": "List all the papers that Arthur S. Morris and Qizheng Gu published.",
+        "cosine_similarity": 0.8775257468223572,
+        "winning_candidate": {
+            "s": "Arthur S. Morris",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Arthur S. Morris"
+        }
+    },
+    {
+        "question": "In CANDAR and CoRR, what papers did Kota Matsuyama publish?",
+        "cosine_similarity": 0.881061315536499,
+        "winning_candidate": {
+            "s": "Kota Matsuyama and Tomonobu Ozaki: Extraction of Interpretable Decision Sets in Graph Databases. (2020)",
+            "p": "authored by",
+            "o": "Kota Matsuyama"
+        }
+    },
+    {
+        "question": "What are the papers that Ann M. Hickey and Alan M. Davis published?",
+        "cosine_similarity": 0.8939017057418823,
+        "winning_candidate": {
+            "s": "Ann M. Hickey and Alan M. Davis: Elicitation Technique Selection: How Do Experts Do It? (2003)",
+            "p": "authored by",
+            "o": "Ann M. Hickey"
+        }
+    },
+    {
+        "question": "What publications did the author Arthur Gill publish in J. ACM and Neural Comput. Appl.?",
+        "cosine_similarity": 0.9055663347244263,
+        "winning_candidate": {
+            "s": "Arthur Gill: The Optimal Organization of Serial Memory Transfers. (1960)",
+            "p": "authored by",
+            "o": "Arthur Gill"
+        }
+    },
+    {
+        "question": "In Pattern Recognit. and International Conference on Advanced Information Networking and Applications, what papers did Ethem Alpaydin publish?",
+        "cosine_similarity": 0.9046679139137268,
+        "winning_candidate": {
+            "s": "Andrea Baraldi and Ethem Alpaydin: Constructive feedforward ART clustering networks. I. (2002)",
+            "p": "authored by",
+            "o": "Ethem Alpaydin"
+        }
+    },
+    {
+        "question": "In NeuroImage and Electron. Colloquium Comput. Complex., what papers did Witold X. Chmielewski publish?",
+        "cosine_similarity": 0.8729382157325745,
+        "winning_candidate": {
+            "s": "Moritz M\u00fcckschel et al.: Interacting sources of interference during sensorimotor integration processes. (2016)",
+            "p": "authored by",
+            "o": "Witold X. Chmielewski"
+        }
+    },
+    {
+        "question": "List all the papers that Daniel S. Berger published in WiNTECH and IJCAI.",
+        "cosine_similarity": 0.8983709812164307,
+        "winning_candidate": {
+            "s": "Daniel S. Berger et al.: Practical Bounds on Optimal Caching with Variable Object Sizes. (2018)",
+            "p": "authored by",
+            "o": "Daniel S. Berger"
+        }
+    },
+    {
+        "question": "Zongyong Cui and Yiming Pi published which papers in Neurocomputing?",
+        "cosine_similarity": 0.5910845398902893,
+        "winning_candidate": {
+            "s": "Zongyong Cui et al.: Dense Attention Pyramid Networks for Multi-Scale Ship Detection in SAR Images. (2019)",
+            "p": "authored by",
+            "o": "Zongyong Cui"
+        }
+    },
+    {
+        "question": "What papers did Marzi, Ruth publish in Math. Comput. Simul. and CSCW Companion?",
+        "cosine_similarity": 0.8929157257080078,
+        "winning_candidate": {
+            "s": "Hermann Krallmann and Ruth Marzi: Syntactic and semantic postprocessing for speech recognition. (1991)",
+            "p": "authored by",
+            "o": "Ruth Marzi"
+        }
+    },
+    {
+        "question": "List all the papers that Tan, Long and Mark T. Keane published in WAIM.",
+        "cosine_similarity": 0.8573588132858276,
+        "winning_candidate": {
+            "s": "Long Tan",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Long Tan"
+        }
+    },
+    {
+        "question": "Dominik Bleckmann and Hosein Marzi published which papers?",
+        "cosine_similarity": 0.7655786871910095,
+        "winning_candidate": {
+            "s": "Dominik Bleckmann: Anforderungen der Datenschutz-Grundverordnung an Labore. (2019)",
+            "p": "authored by",
+            "o": "Dominik Bleckmann"
+        }
+    },
+    {
+        "question": "List all the papers that Shivani Poddar published in LREC and Trans. Emerg. Telecommun. Technol..",
+        "cosine_similarity": 0.8337134718894958,
+        "winning_candidate": {
+            "s": "R. Chulaka Gunasekara et al.: Overview of the Ninth Dialog System Technology Challenge: DSTC9. (2020)",
+            "p": "authored by",
+            "o": "Shivani Poddar"
+        }
+    },
+    {
+        "question": "List all the papers that Sejdic, Ervin and Ljubisa Stankovic published in IEEE Signal Process. Lett..",
+        "cosine_similarity": 0.864026665687561,
+        "winning_candidate": {
+            "s": "Ljubisa A. Stankovic et al.: Vertex-Frequency Analysis: A Way to Localize Graph Spectral Components [Lecture Notes]. (2017)",
+            "p": "authored by",
+            "o": "Ervin Sejdic"
+        }
+    },
+    {
+        "question": "What are the papers that Venkataramanan Balakrishnan and Kothare, Mayuresh V. published?",
+        "cosine_similarity": 0.870406985282898,
+        "winning_candidate": {
+            "s": "William A. Ward and B. Venkataraman: Some observations on software quality. (1999)",
+            "p": "authored by",
+            "o": "B. Venkataraman"
+        }
+    },
+    {
+        "question": "What are the papers that S. Sowmya Kamath and Amol P. Bhopale published?",
+        "cosine_similarity": 0.8821736574172974,
+        "winning_candidate": {
+            "s": "Prajna Hebbar and S. Kamath Sowmya: Genomic Variant Annotation: A Comprehensive Review of Tools and Techniques. (2021)",
+            "p": "authored by",
+            "o": "S. Kamath Sowmya"
+        }
+    },
+    {
+        "question": "What publications did the author Joseph Shtok publish in CoRR and IEEE International Workshop on Quality of Service?",
+        "cosine_similarity": 0.8851480484008789,
+        "winning_candidate": {
+            "s": "Joseph Shtok and Michael Elad: Analysis of Basis Pursuit Via Capacity Sets (2010)",
+            "p": "authored by",
+            "o": "Joseph Shtok"
+        }
+    },
+    {
+        "question": "List all the papers that James L. Melsa and David L. Cohn published.",
+        "cosine_similarity": 0.892781138420105,
+        "winning_candidate": {
+            "s": "James L. Melsa",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "James L. Melsa"
+        }
+    },
+    {
+        "question": "List all the papers that Grigorios Tsoumakas and Dimitris Dimitriadis published in J. Biomed. Informatics.",
+        "cosine_similarity": 0.8960930705070496,
+        "winning_candidate": {
+            "s": "Grigorios Tsoumakas et al.: Large-Scale Semantic Indexing of Biomedical Publications. (2013)",
+            "p": "authored by",
+            "o": "Grigorios Tsoumakas"
+        }
+    },
+    {
+        "question": "In IEEE Trans. Very Large Scale Integr. Syst. and Entropy, what papers did Minjae Lee publish?",
+        "cosine_similarity": 0.9045005440711975,
+        "winning_candidate": {
+            "s": "Rahim Bagheri et al.: Software-defined radio receiver: dream to reality. (2006)",
+            "p": "authored by",
+            "o": "Minjae Lee"
+        }
+    },
+    {
+        "question": "Mention the publication on Point processes that was published by Anthony in PE-WASUN.",
+        "cosine_similarity": 0.8656323552131653,
+        "winning_candidate": {
+            "s": "Paul R. Messinger et al.: Virtual worlds - past, present, and future: New directions in social computing. (2009)",
+            "p": "authored by",
+            "o": "Michael Bone"
+        }
+    },
+    {
+        "question": "Which author with the name Chung published the paper about Exponential backoff?",
+        "cosine_similarity": 0.8572646975517273,
+        "winning_candidate": {
+            "s": "Chih-Wei Hsu et al.: Subgoal Ordering and Granularity Control for Incremental Planning. (2007)",
+            "p": "authored by",
+            "o": "Chih-Wei Hsu"
+        }
+    },
+    {
+        "question": "Mention the publication on Regression analysis that was published by Gerow in MIS Q..",
+        "cosine_similarity": 0.8417350053787231,
+        "winning_candidate": {
+            "s": "Guodong Rong et al.: LGSVL Simulator: A High Fidelity Simulator for Autonomous Driving. (2020)",
+            "p": "authored by",
+            "o": "Mark Gerow"
+        }
+    },
+    {
+        "question": "Which research paper on Split operator was published by Heiko in Comput. Phys. Commun.?",
+        "cosine_similarity": 0.8536530137062073,
+        "winning_candidate": {
+            "s": "Seigo Okada et al.: Foot-Based 6-DOF Haptic Interface with Force Feedback Capability for Third Arm Manipulation. (2021)",
+            "p": "published in book",
+            "o": "SMC"
+        }
+    },
+    {
+        "question": "Xiaobo published the paper on Mixture model in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Theodora published the paper on Multimodal trajectories in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which venue did Fogelman-Souli\\u00E9 write the research papers about Feature engineering?",
+        "cosine_similarity": 0.8722975850105286,
+        "winning_candidate": {
+            "s": "Di Jin et al.: Detecting Communities with Multiplex Semantics by Distinguishing Background, General, and Specialized Topics. (2020)",
+            "p": "authored by",
+            "o": "Fran\u00e7oise Fogelman-Souli\u00e9"
+        }
+    },
+    {
+        "question": "Shadab published the publication on Circuit help in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Find the paper on R&d results that was published by Markus in ECKM.",
+        "cosine_similarity": 0.8119063973426819,
+        "winning_candidate": {
+            "s": "Markus Neubauer",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Markus Neubauer"
+        }
+    },
+    {
+        "question": "Mention the publication on Anonymity model that was published by Bo in Comput. Secur..",
+        "cosine_similarity": 0.8731155395507812,
+        "winning_candidate": {
+            "s": "Bo Bo",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Bo Bo"
+        }
+    },
+    {
+        "question": "Name the venue in which Lin published the paper about Message service.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Who is the author named Li who published the paper about Precision observations?",
+        "cosine_similarity": 0.8478610515594482,
+        "winning_candidate": {
+            "s": "Shuoge Shen et al.: GIS-based Logic Scoring of Preference method for urban densification suitability analysis. (2021)",
+            "p": "authored by",
+            "o": "Suzana Dragicevic"
+        }
+    },
+    {
+        "question": "Which research paper on Graph representations was published by Liao in European Conference on Computer Vision?",
+        "cosine_similarity": 0.8800874352455139,
+        "winning_candidate": {
+            "s": "Fangshuo Liao and Anastasios Kyrillidis: On the Convergence of Shallow Neural Network Training with Randomly Masked Neurons. (2021)",
+            "p": "authored by",
+            "o": "Fangshuo Liao"
+        }
+    },
+    {
+        "question": "Which author published the paper on Disease prediction and has the name T.?",
+        "cosine_similarity": 0.7911972999572754,
+        "winning_candidate": {
+            "s": "Xiang Wang et al.: Automatic Detection of Pathological Voices Using GMM-MLLR Approach. (2009)",
+            "p": "authored by",
+            "o": "Yonghong Yan 0002"
+        }
+    },
+    {
+        "question": "Who is the author named S. who published the paper about Connection scheduling?",
+        "cosine_similarity": 0.8632767200469971,
+        "winning_candidate": {
+            "s": "Zhaoyu Liu et al.: Flexible Secure Multicasting in Active Networks. (2000)",
+            "p": "authored by",
+            "o": "Roy H. Campbell"
+        }
+    },
+    {
+        "question": "Find the paper on Verteilter programme that was published by Schill in Wirtschaftsinf..",
+        "cosine_similarity": 0.7381874322891235,
+        "winning_candidate": {
+            "s": "Joshua Schill",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Joshua Schill"
+        }
+    },
+    {
+        "question": "Which author named Sitte published the paper on Map algorithm?",
+        "cosine_similarity": 0.8779785633087158,
+        "winning_candidate": {
+            "s": "Haitao Wang: Algorithms for Subpath Convex Hull Queries and Ray-Shooting Among Segments. (2020)",
+            "p": "authored by",
+            "o": "Haitao Wang 0001"
+        }
+    },
+    {
+        "question": "In which venue did Sapna publish the paper about Science classes?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which author with the name Kobbi published the paper about Set operations?",
+        "cosine_similarity": 0.8409077525138855,
+        "winning_candidate": {
+            "s": "Carmit Hazay and Kobbi Nissim: Efficient Set Operations in the Presence of Malicious Adversaries. (2010)",
+            "p": "authored by",
+            "o": "Kobbi Nissim"
+        }
+    },
+    {
+        "question": "Mention the publication on Gene expression that was published by Visel in Nucleic Acids Res..",
+        "cosine_similarity": 0.6963129639625549,
+        "winning_candidate": {
+            "s": "Dan Visel",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Dan Visel"
+        }
+    },
+    {
+        "question": "Name the venue in which Akira published the paper about Document classifier.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which research paper on Extension framework was published by Ramachandran in USENIX Annual Technical Conference?",
+        "cosine_similarity": 0.826860249042511,
+        "winning_candidate": {
+            "s": "Vinay Chandwani et al.: Modeling slump of ready mix concrete using genetic algorithms assisted training of Artificial Neural Networks. (2015)",
+            "p": "authored by",
+            "o": "Ravindra Nagar"
+        }
+    },
+    {
+        "question": "In which venue did Huan write the research papers about Modeling approach?",
+        "cosine_similarity": 0.8734059929847717,
+        "winning_candidate": {
+            "s": "Patrick P. K. Chan et al.: A novel defend against good word attacks. (2011)",
+            "p": "authored by",
+            "o": "Jinshan Jiang"
+        }
+    },
+    {
+        "question": "Which author named Heijer published the paper on Glitch art?",
+        "cosine_similarity": 0.8627042174339294,
+        "winning_candidate": {
+            "s": "Meng Lu et al.: ADAS applications for improving traffic safety. (2004)",
+            "p": "authored by",
+            "o": "Tom Heijer"
+        }
+    },
+    {
+        "question": "Which paper on Feedback scheduling was published by Dan in IEEE Real Time Technology and Applications Symposium?",
+        "cosine_similarity": 0.8878288865089417,
+        "winning_candidate": {
+            "s": "Paul R. Messinger et al.: Virtual worlds - past, present, and future: New directions in social computing. (2009)",
+            "p": "authored by",
+            "o": "Michael Bone"
+        }
+    },
+    {
+        "question": "T. published the paper on Order model in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the publication on Model stability that was published by Yu in IRPS.",
+        "cosine_similarity": 0.870360255241394,
+        "winning_candidate": {
+            "s": "Hanlin Liu and Yu Yu: A Non-heuristic Approach to Time-space Tradeoffs and Optimizations for BKW. (2021)",
+            "p": "authored by",
+            "o": "Yu Yu 0001"
+        }
+    },
+    {
+        "question": "Mention the publication on Runtime detection that was published by Julien in RV.",
+        "cosine_similarity": 0.8717288970947266,
+        "winning_candidate": {
+            "s": "Enrique V. Enrique",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Enrique V. Enrique"
+        }
+    },
+    {
+        "question": "Name the venue in which O. published the paper about Transfer function.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Who is the author named Yue who published the paper about Dos attack?",
+        "cosine_similarity": 0.846084475517273,
+        "winning_candidate": {
+            "s": "Chunfei Ju and Hui Yuan: Key Recovery Attack on a Knapsack Public Key Cryptosystem. (2012)",
+            "p": "authored by",
+            "o": "Hui Yuan"
+        }
+    },
+    {
+        "question": "Which author published the paper on File distribution and has the name Xu?",
+        "cosine_similarity": 0.8222037553787231,
+        "winning_candidate": {
+            "s": "Kang Xi et al.: An efficient algorithm for converter placement in dynamic WDM networks. (2005)",
+            "p": "authored by",
+            "o": "Shin'ichi Arakawa"
+        }
+    },
+    {
+        "question": "Mention the publication on Membership method that was published by Wen in Auton. Robots.",
+        "cosine_similarity": 0.8744619488716125,
+        "winning_candidate": {
+            "s": "Huifang Chen et al.: Implementation and application of underwater acoustic sensor nodes. (2016)",
+            "p": "authored by",
+            "o": "Wen Xu 0004"
+        }
+    },
+    {
+        "question": "Ping-Feng published the paper on Intersection concept in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which research paper on Mathematics problems was published by Susan in Int. J. Web Based Learn. Teach. Technol.?",
+        "cosine_similarity": 0.8360649347305298,
+        "winning_candidate": {
+            "s": "R. Webster: Algebraic multigrid, mixed-order interpolation, and incompressible fluid flow. (2010)",
+            "p": "authored by",
+            "o": "R. Webster"
+        }
+    },
+    {
+        "question": "In which venue did Martin publish the paper about Band cmos?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which author with the name Jha published the paper about Approximation algorithms?",
+        "cosine_similarity": 0.8542903661727905,
+        "winning_candidate": {
+            "s": "Xiuli Chao et al.: Approximation Algorithms for Perishable Inventory Systems. (2015)",
+            "p": "authored by",
+            "o": "Cong Shi 0001"
+        }
+    },
+    {
+        "question": "Sugawara published the paper on Series prediction model building in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which publication on Specimen images was published by the author Murashov in VISAPP?",
+        "cosine_similarity": 0.8663029670715332,
+        "winning_candidate": {
+            "s": "Yulia Trusova et al.: Linguistic support of the knowledge base for image analysis and understanding system. (2007)",
+            "p": "authored by",
+            "o": "Dmitry Murashov"
+        }
+    },
+    {
+        "question": "Which paper on Cancer care was published by Liu in CIT/IUCC/DASC/PICom?",
+        "cosine_similarity": 0.8597262501716614,
+        "winning_candidate": {
+            "s": "Ruoheng Liu et al.: MIMO Gaussian broadcast channels with confidential messages. (2009)",
+            "p": "authored by",
+            "o": "Tie Liu 0002"
+        }
+    },
+    {
+        "question": "In which venue did Roque write the research papers about Literature review?",
+        "cosine_similarity": 0.8625953793525696,
+        "winning_candidate": {
+            "s": "Luiz Pessoa et al.: Attentive Visual Recognition for Scene Exploration. (1998)",
+            "p": "authored by",
+            "o": "Alexandre Roque"
+        }
+    },
+    {
+        "question": "Mention the publication on Degree trends that was published by Cheryl in IEEE Technol. Soc. Mag..",
+        "cosine_similarity": 0.8207946419715881,
+        "winning_candidate": {
+            "s": "Daphne E. Whitmer et al.: A Mastery Approach to Flashcard-Based Adaptive Training. (2020)",
+            "p": "authored by",
+            "o": "Cheryl I. Johnson"
+        }
+    },
+    {
+        "question": "Find the paper on Order interval that was published by Vakif in ICINCO (1).",
+        "cosine_similarity": 0.8305695056915283,
+        "winning_candidate": {
+            "s": "Serife Yilmaz et al.: Random search of stable member in a matrix polytope. (2016)",
+            "p": "authored by",
+            "o": "Vakif Dzhafarov"
+        }
+    },
+    {
+        "question": "Who is the author named Josep who published the paper about Energy efficiency?",
+        "cosine_similarity": 0.7657991051673889,
+        "winning_candidate": {
+            "s": "Shyni P. Nair and M. Mary Linda: An efficient maximum power point tracking in hybrid solar and wind energy system: A combined MDA-RNN technique. (2019)",
+            "p": "authored by",
+            "o": "M. Mary Linda"
+        }
+    },
+    {
+        "question": "Which author published the paper on Feature location tasks and has the name Zhao?",
+        "cosine_similarity": 0.8622040748596191,
+        "winning_candidate": {
+            "s": "Kaining Zhang et al.: Gaussian initializations help deep variational quantum circuits escape from the barren plateau. (2022)",
+            "p": "authored by",
+            "o": "Dacheng Tao"
+        }
+    },
+    {
+        "question": "Dario published the publication on Time marker in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which paper on Image segmentation was published by Bradley in MICCAI?",
+        "cosine_similarity": 0.8534446358680725,
+        "winning_candidate": {
+            "s": "Clio Andris et al.: To racketeer among neighbors: spatial features of criminal collaboration in the American Mafia. (2021)",
+            "p": "authored by",
+            "o": "Bradley Hinger"
+        }
+    },
+    {
+        "question": "Keshavamurthy published the paper on Image data in which venue?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Which author with the name Youngim published the paper about Phrase boundary?",
+        "cosine_similarity": 0.8402876853942871,
+        "winning_candidate": {
+            "s": "Youngim Bae and Hyunjoon Chang: Adoption of smart TVs: a Bayesian network approach. (2012)",
+            "p": "authored by",
+            "o": "Youngim Bae"
+        }
+    },
+    {
+        "question": "Name the author who published the paper on Shopping behavior and has the name Ming-Hui.",
+        "cosine_similarity": 0.872433602809906,
+        "winning_candidate": {
+            "s": "Mirela C. Popa et al.: Analysis of shopping behavior based on surveillance system. (2010)",
+            "p": "authored by",
+            "o": "Caifeng Shan"
+        }
+    },
+    {
+        "question": "How many publications did Nicola Leone and Mario Alviano author together?",
+        "cosine_similarity": 0.8952510952949524,
+        "winning_candidate": {
+            "s": "Wolfgang Faber et al.: The Intelligent Grounder of DLV. (2012)",
+            "p": "authored by",
+            "o": "Nicola Leone"
+        }
+    },
+    {
+        "question": "What is the average number of co-authors for papers published by Mohamed-Slim A.?",
+        "cosine_similarity": 0.8119972348213196,
+        "winning_candidate": {
+            "s": "Mohamed-Slim Bouguerra et al.: On the Scheduling of Checkpoints in Desktop Grids. (2011)",
+            "p": "authored by",
+            "o": "Mohamed-Slim Bouguerra"
+        }
+    },
+    {
+        "question": "How many papers did Francisco Jes\\u00FAs Moral and Fernando Guijarro write together?",
+        "cosine_similarity": 0.8702396750450134,
+        "winning_candidate": {
+            "s": "Pedro \u00c1lvarez et al.: Development of a measure model for optimal planning of maintenance and improvement of roads. (2007)",
+            "p": "authored by",
+            "o": "Francisco Jes\u00fas Moral"
+        }
+    },
+    {
+        "question": "In HLS-D3@EC-TEL, how many papers has Adolfo Ruiz-Calleja published?",
+        "cosine_similarity": 0.8969197869300842,
+        "winning_candidate": {
+            "s": "Adolfo Ruiz-Calleja: A Linked-Data-based Search System of Educational Tools for the Web of Data. (2010)",
+            "p": "authored by",
+            "o": "Adolfo Ruiz-Calleja"
+        }
+    },
+    {
+        "question": "Mention the number of papers that Tathagata M. has published.",
+        "cosine_similarity": 0.8658514618873596,
+        "winning_candidate": {
+            "s": "Prashanth Marpu",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Prashanth Marpu"
+        }
+    },
+    {
+        "question": "Report the average number of publications by Masaki Suwa per year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "How many publications did Jinghua Zhang and Soumyadip Sengupta author together?",
+        "cosine_similarity": 0.8525422811508179,
+        "winning_candidate": {
+            "s": "Jinsheng Xu et al.: A Survey of Asynchronous Collaboration Tools. (2008)",
+            "p": "authored by",
+            "o": "Jinghua Zhang"
+        }
+    },
+    {
+        "question": "How many papers did the authors Knocker, L. and Zheng Rong Yang co-write?",
+        "cosine_similarity": 0.8779327869415283,
+        "winning_candidate": {
+            "s": "Natasha Young and Zheng Rong Yang: Multivariate Crosstalk Models. (2006)",
+            "p": "authored by",
+            "o": "Zheng Rong Yang"
+        }
+    },
+    {
+        "question": "In CoRR, how many publications has Dorband, J. E. published?",
+        "cosine_similarity": 0.8903168439865112,
+        "winning_candidate": {
+            "s": "Thomas L. Sterling et al.: BEOWULF: A Parallel Workstation for Scientific Computation. (1995)",
+            "p": "authored by",
+            "o": "John E. Dorband"
+        }
+    },
+    {
+        "question": "Report the average number of publications by Chaudhuri, S. R. Bhadra per year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "How many publications has Hajlaoui, K. published in RCIS?",
+        "cosine_similarity": 0.8435565233230591,
+        "winning_candidate": {
+            "s": "Pegah Pooya et al.: Assessing the reliability of the radiation therapy care delivery process using discrete event simulation. (2014)",
+            "p": "authored by",
+            "o": "Katharin Deschesne"
+        }
+    },
+    {
+        "question": "How many papers did Maya R. Gupta and Hazen, Megan write together?",
+        "cosine_similarity": 0.8817654252052307,
+        "winning_candidate": {
+            "s": "Eric K. Garcia et al.: Completely Lazy Learning. (2010)",
+            "p": "authored by",
+            "o": "Maya R. Gupta"
+        }
+    },
+    {
+        "question": "How many co-authors does Steve Bellinger have?",
+        "cosine_similarity": 0.8589091897010803,
+        "winning_candidate": {
+            "s": "Steve Bellinger",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Steve Bellinger"
+        }
+    },
+    {
+        "question": "Count the number of papers that Zhang, Chenlu has published in Wirel. Pers. Commun..",
+        "cosine_similarity": 0.841582179069519,
+        "winning_candidate": {
+            "s": "Ming Chen et al.: Optimization Design of Muti-Band Wilkinson Power Divider by the Method of Genetic Algorithm. (2013)",
+            "p": "authored by",
+            "o": "Chenlu Zhang"
+        }
+    },
+    {
+        "question": "How many papers has Tommi Salminen published in SoC?",
+        "cosine_similarity": 0.8786191344261169,
+        "winning_candidate": {
+            "s": "Tommi Salminen and Juha-Pekka Soininen: Evaluating application mapping using network simulation. (2003)",
+            "p": "authored by",
+            "o": "Tommi Salminen"
+        }
+    },
+    {
+        "question": "How many research papers did Nobuyuki Matsui and Haruhiko Nishimura write together?",
+        "cosine_similarity": 0.883815348148346,
+        "winning_candidate": {
+            "s": "Nobuyuki Matsui and Kouichi Nakabayashi: Minimum searching by extended Hopfield model. (1995)",
+            "p": "authored by",
+            "o": "Nobuyuki Matsui"
+        }
+    },
+    {
+        "question": "How many papers did the authors Kemper Lewis and David Van Horn co-write?",
+        "cosine_similarity": 0.8698044419288635,
+        "winning_candidate": {
+            "s": "David Van Horn and Kemper Lewis: The use of analytics in the design of sociotechnical products. (2015)",
+            "p": "authored by",
+            "o": "Kemper Lewis"
+        }
+    },
+    {
+        "question": "How many publications did Mijin An and Park, Hyunwoo author together?",
+        "cosine_similarity": 0.8752150535583496,
+        "winning_candidate": {
+            "s": "Hyunwoo Park et al.: Freezing Frozen Pages with Multi-Stream SSDs. (2019)",
+            "p": "authored by",
+            "o": "Mijin An"
+        }
+    },
+    {
+        "question": "How many research papers has Marek Miskowicz published?",
+        "cosine_similarity": 0.8816362619400024,
+        "winning_candidate": {
+            "s": "Marek Miskowicz: Comparison of Intensive and Extensive Sensor Networking Technologies. (2006)",
+            "p": "authored by",
+            "o": "Marek Miskowicz"
+        }
+    },
+    {
+        "question": "Count the number of papers that Amirreza Shirani has published.",
+        "cosine_similarity": 0.8552474975585938,
+        "winning_candidate": {
+            "s": "Amirreza Shirani",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Amirreza Shirani"
+        }
+    },
+    {
+        "question": "In SIGGRAPH Posters, how many papers has Wan-Lun Tsai published?",
+        "cosine_similarity": 0.8562813997268677,
+        "winning_candidate": {
+            "s": "Wan-Lun Tsai et al.: Feasibility Study on Virtual Reality Based Basketball Tactic Training. (2022)",
+            "p": "authored by",
+            "o": "Wan-Lun Tsai"
+        }
+    },
+    {
+        "question": "Count the number of co-authors that Berke, Allison has.",
+        "cosine_similarity": 0.8726093769073486,
+        "winning_candidate": {
+            "s": "Charles Kemp et al.: Combining causal and similarity-based reasoning. (2006)",
+            "p": "authored by",
+            "o": "Allison Berke"
+        }
+    },
+    {
+        "question": "Mention the number of papers that Rodrigues, Nishant has published.",
+        "cosine_similarity": 0.9085519313812256,
+        "winning_candidate": {
+            "s": "Nishant Rodrigues",
+            "p": "http://www.w3.org/2000/01/rdf-schema#label",
+            "o": "Nishant Rodrigues"
+        }
+    },
+    {
+        "question": "Report the average number of co-authors for publications published by J. Bryan Lyles.",
+        "cosine_similarity": 0.8077709078788757,
+        "winning_candidate": {
+            "s": "Chuck Fraleigh et al.: Design and Deployment of a Passive Monitoring Infrastructure. (2001)",
+            "p": "authored by",
+            "o": "J. Bryan Lyles"
+        }
+    },
+    {
+        "question": "Count the number of papers that Pasarella, Edelmira has published.",
+        "cosine_similarity": 0.8797697424888611,
+        "winning_candidate": {
+            "s": "Edelmira Pasarella et al.: MapReduce vs. Pipelining Counting Triangles. (2016)",
+            "p": "authored by",
+            "o": "Edelmira Pasarella"
+        }
+    },
+    {
+        "question": "What is the average number of co-authors for papers published by Beat Pfister?",
+        "cosine_similarity": 0.839463472366333,
+        "winning_candidate": {
+            "s": "Beat Pfister and Ren\u00e9 Beutler: Estimating the weight of evidence in forensic speaker verification. (2003)",
+            "p": "authored by",
+            "o": "Beat Pfister"
+        }
+    },
+    {
+        "question": "With how many other authors has Townend, Paul co-authored papers?",
+        "cosine_similarity": 0.8828849196434021,
+        "winning_candidate": {
+            "s": "Paul Townend and Jie Xu: Dependability in Grids. (2005)",
+            "p": "authored by",
+            "o": "Paul Townend"
+        }
+    },
+    {
+        "question": "In International Conference on Software Engineering and Knowledge Engineering, how many publications has Imran A. Zualkernan published?",
+        "cosine_similarity": 0.9058836698532104,
+        "winning_candidate": {
+            "s": "Bahar Honarpisheh and Imran A. Zualkernan: How Do Researchers in Ubiquitous Learning View Adoption of Their Technology? (2013)",
+            "p": "authored by",
+            "o": "Imran A. Zualkernan"
+        }
+    },
+    {
+        "question": "Report the count of papers that Timothy Verstraeten has published in International Joint Conference on Autonomous Agents and Multiagent Systems.",
+        "cosine_similarity": 0.8552069067955017,
+        "winning_candidate": {
+            "s": "Conor F. Hayes et al.: A practical guide to multi-objective reinforcement learning and planning. (2022)",
+            "p": "authored by",
+            "o": "Timothy Verstraeten"
+        }
+    },
+    {
+        "question": "Mention the number of papers that Bart Thijs has published.",
+        "cosine_similarity": 0.8897934556007385,
+        "winning_candidate": {
+            "s": "Bart Thijs: Science Mapping and the Identification of Topics: Theoretical and Methodological Considerations. (2019)",
+            "p": "authored by",
+            "o": "Bart Thijs"
+        }
+    },
+    {
+        "question": "What is the average number of co-authors for publications published by the author Hyearn Jeon?",
+        "cosine_similarity": 0.8222529292106628,
+        "winning_candidate": {
+            "s": "Seungwoo Jeon Jeon et al.: A Trajectory Tracking Control of a Skid Steered Mobile Cleaning Robot. (2015)",
+            "p": "authored by",
+            "o": "Seungwoo Jeon Jeon"
+        }
+    },
+    {
+        "question": "How many research papers has Warwick de Launey published?",
+        "cosine_similarity": 0.8851215243339539,
+        "winning_candidate": {
+            "s": "Warwick de Launey and Jennifer Seberry: The Strong Kronecker Product. (1994)",
+            "p": "authored by",
+            "o": "Warwick de Launey"
+        }
+    },
+    {
+        "question": "What is the average number of papers published by Hailes, Stephen per year?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Calculate the average number of co-authors for papers published by Xuanming Lu.",
+        "cosine_similarity": 0.8003206849098206,
+        "winning_candidate": {
+            "s": "Xuanming Lu et al.: Concepts and simulations of a soft robot mimicking human tongue. (2015)",
+            "p": "authored by",
+            "o": "Xuanming Lu"
+        }
+    },
+    {
+        "question": "Count the number of papers that Taymouri, Farbod and Marcello La Rosa wrote together.",
+        "cosine_similarity": 0.8419709801673889,
+        "winning_candidate": {
+            "s": "Farbod Taymouri and Josep Carmona: An Evolutionary Technique to Approximate Multiple Optimal Alignments. (2018)",
+            "p": "authored by",
+            "o": "Farbod Taymouri"
+        }
+    },
+    {
+        "question": "How many publications has the author Hynek Hermansky published?",
+        "cosine_similarity": 0.9012886881828308,
+        "winning_candidate": {
+            "s": "Hynek Hermansky: Should recognizers have ears? (1998)",
+            "p": "authored by",
+            "o": "Hynek Hermansky"
+        }
+    },
+    {
+        "question": "With how many other authors has Kyle O'Keefe co-authored papers?",
+        "cosine_similarity": 0.8884691596031189,
+        "winning_candidate": {
+            "s": "Sharareh Naghdi and Kyle O'Keefe: Detecting and Correcting for Human Obstacles in BLE Trilateration Using Artificial Intelligence. (2020)",
+            "p": "authored by",
+            "o": "Kyle O'Keefe"
+        }
+    },
+    {
+        "question": "Calculate the average number of papers published by Wang, C. An per year.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Calculate the average number of co-authors for papers published by Otto Mayer.",
+        "cosine_similarity": 0.8081639409065247,
+        "winning_candidate": {
+            "s": "Otto Mayer: A Framework for Producing Deterministic Canonical Bottom-up Parsers. (1978)",
+            "p": "authored by",
+            "o": "Otto Mayer"
+        }
+    },
+    {
+        "question": "Mention the number of papers that Birman, Kenneth P. has published.",
+        "cosine_similarity": 0.918279767036438,
+        "winning_candidate": {
+            "s": "Kenneth P. Birman: Opening remarks. (2005)",
+            "p": "authored by",
+            "o": "Kenneth P. Birman"
+        }
+    },
+    {
+        "question": "What is the average number of co-authors for publications published by the author Amar Aggoun?",
+        "cosine_similarity": 0.8476970195770264,
+        "winning_candidate": {
+            "s": "O. Abdul Fatah et al.: Generating stereoscopic 3D from holoscopic 3D. (2013)",
+            "p": "authored by",
+            "o": "Amar Aggoun"
+        }
+    },
+    {
+        "question": "How many publications has the author Sentis, R\\u00E9mi published?",
+        "cosine_similarity": 0.8983412981033325,
+        "winning_candidate": {
+            "s": "Gray C. Thomas and Luis Sentis: Identifying H[infinity]-Models: An LMI Approach. (2018)",
+            "p": "authored by",
+            "o": "Luis Sentis"
+        }
+    },
+    {
+        "question": "In which year did Clive Roberts publish the most publications?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Find the year in which Pierson, Jean-Marc published their first paper.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the last publication by Jin Hwan Kim published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the last publication by Wu, Xiaoping published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Keith L. Davidson publish the most publications?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Most nubmer of papers were published by Chris Heunen in which year?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year was the first paper by Alireza Ghasempour published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Kemal Efe publish the most papers?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Michael A. Harrison publish their first paper?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the last publication by Bilgi Terlemezoglu published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Find the year in which Takayuki Yamamoto published their first paper.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the last paper by P. Maponi published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did the author Hiroshi Doi publish the most research papers?",
+        "cosine_similarity": 0.8551856875419617,
+        "winning_candidate": {
+            "s": "Takeo Mizuno and Hiroshi Doi: Secure and Efficient IBE-PKE Proxy Re-Encryption. (2011)",
+            "p": "authored by",
+            "o": "Hiroshi Doi"
+        }
+    },
+    {
+        "question": "Report the most frequent co-author of M. A. Ganter and how many papers do they have together?",
+        "cosine_similarity": 0.8673261404037476,
+        "winning_candidate": {
+            "s": "Robert L. Blanding et al.: A skeletal-based solid editor. (1999)",
+            "p": "authored by",
+            "o": "Mark A. Ganter"
+        }
+    },
+    {
+        "question": "Sullivan, Barry J. published the most papers in which venue and how many?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Torres, M. In\\u00E9s publish the most publications?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Pen-Chung Yew published the most papers in which venue and how many?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Report the year in which Chauchin S. published the least papers.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Find the year in which Wu, Tian-Ying published their first paper.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Report the most frequent co-author of Aboul Ella Hassanien and how many papers do they have together?",
+        "cosine_similarity": 0.8634756803512573,
+        "winning_candidate": {
+            "s": "Mohamed Torky et al.: Credibility investigation of newsworthy tweets using a visualising Petri net model. (2016)",
+            "p": "authored by",
+            "o": "Aboul Ella Hassanien"
+        }
+    },
+    {
+        "question": "Name the most frequent co-author of Prabhakaran, Vinod M. and how many research papers do they have together?",
+        "cosine_similarity": 0.8986147046089172,
+        "winning_candidate": {
+            "s": "Vinod M. Prabhakaran and Manoj Prabhakaran: Assisted Common Information: Further Results (2011)",
+            "p": "authored by",
+            "o": "Vinod M. Prabhakaran"
+        }
+    },
+    {
+        "question": "Who is the most common co-author of Jayanth Koushik and how many papers do they have together?",
+        "cosine_similarity": 0.8695895671844482,
+        "winning_candidate": {
+            "s": "Jayanth Koushik: Understanding Convolutional Neural Networks. (2016)",
+            "p": "authored by",
+            "o": "Jayanth Koushik"
+        }
+    },
+    {
+        "question": "In which year did Chrzaszcz, Jerzy publish the least publications and how many?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Zhenzhou Tang publish the most papers?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Mahmoodian, E. S. publish the least papers and how many?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the first publication by Paul P. N. Yang published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Mention the year in which Marcin Pietron published the most papers.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did Michael R. M. Jenkin publish their first paper?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Who is the most frequent co-author of Jos\\u00E9 M. Hern\\u00E1ndez-Lobato and how many publications do they have together?",
+        "cosine_similarity": 0.8696842789649963,
+        "winning_candidate": {
+            "s": "F\u00e1bio Manoel Fran\u00e7a Lobato et al.: Social CRM: Biggest Challenges to Make it Work in the Real World. (2016)",
+            "p": "authored by",
+            "o": "F\u00e1bio M. F. Lobato"
+        }
+    },
+    {
+        "question": "Find the year in which Chen, Shih-Yeh published their first paper.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the first publication by Marc Sebban published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year was the first paper by Qing-Long Han published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Report the year in which Gil-Casti\\u00F1eira, F. J. published their last paper.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Report the venue in which Elliot Fischer published the most papers.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "When was the last paper by Macyk, Wojciech published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which venue did Ueda, Koichi publish the most publications and how many?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "With which author does Hiroyuki Kitagawa has the most papers and how many?",
+        "cosine_similarity": 0.8808218836784363,
+        "winning_candidate": {
+            "s": "Yuto Yamaguchi et al.: Why Do You Follow Him?: Multilinear Analysis on Twitter. (2015)",
+            "p": "authored by",
+            "o": "Hiroyuki Kitagawa"
+        }
+    },
+    {
+        "question": "Report the most frequent co-author of Mariano Luque and how many papers do they have together?",
+        "cosine_similarity": 0.8689369559288025,
+        "winning_candidate": {
+            "s": "Sandra Gonz\u00e1lez-Gallardo et al.: A novel approach for exploring the trade-offs between several features of students' well-being. (2022)",
+            "p": "authored by",
+            "o": "Mariano Luque"
+        }
+    },
+    {
+        "question": "In which year was the last paper by Naimul Mefraz Khan published?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which year did the author Tianshu Chu publish the most research papers?",
+        "cosine_similarity": 0.856720507144928,
+        "winning_candidate": {
+            "s": "Zuopeng Yang et al.: Human-Centric Image Captioning. (2022)",
+            "p": "authored by",
+            "o": "Tianshu Chu"
+        }
+    },
+    {
+        "question": "Mention the number of authors of the paper 'A Bode-Like Integral for Discrete Linear Time-Periodic Systems'.",
+        "cosine_similarity": 0.9031974077224731,
+        "winning_candidate": {
+            "s": "Yingbo Zhao and Vijay Gupta: A Bode-Like Integral for Discrete Linear Time-Periodic Systems. (2015)",
+            "p": "authored by",
+            "o": "Vijay Gupta 0001"
+        }
+    },
+    {
+        "question": "When was the paper 'Designing a Collaborative Construction-Project Platform on Blockchain Technology for Transparency, Traceability, and Information Symmetry' published?",
+        "cosine_similarity": 0.8288002014160156,
+        "winning_candidate": {
+            "s": "Chibuzor Udokwu et al.: Designing a Collaborative Construction-Project Platform on Blockchain Technology for Transparency, Traceability, and Information Symmetry. (2021)",
+            "p": "year of publication",
+            "o": "2021"
+        }
+    },
+    {
+        "question": "Who is the author of the paper 'Cross-lingual Training for Retrieval-based Dialogue Systems'?",
+        "cosine_similarity": 0.9156777858734131,
+        "winning_candidate": {
+            "s": "Nikita Mamaev et al.: Cross-lingual Training for Retrieval-based Dialogue Systems. (2019)",
+            "p": "authored by",
+            "o": "Aigul Nugmanova"
+        }
+    },
+    {
+        "question": "Using Linked Statistical Data to Improve Marine Search and Rescue Operations in Ireland' has how many authors?",
+        "cosine_similarity": 0.8444913625717163,
+        "winning_candidate": {
+            "s": "Arkadiusz Stasiewicz et al.: Using Linked Statistical Data to Improve Marine Search and Rescue Operations in Ireland. (2018)",
+            "p": "authored by",
+            "o": "Evangelos Kalampokis"
+        }
+    },
+    {
+        "question": "Mention the bibtex type of the paper 'A Parallel Iterative Solution Method for Systems of Nonlinear Hyperbolic Equations'.",
+        "cosine_similarity": 0.9124064445495605,
+        "winning_candidate": {
+            "s": "Jeffrey S. Scroggs: A Parallel Iterative Solution Method for Systems of Nonlinear Hyperbolic Equations. (1989)",
+            "p": "bibtex type",
+            "o": "http://purl.org/net/nknouf/ns/bibtex#Inproceedings"
+        }
+    },
+    {
+        "question": "The paper 'Payload-centric autonomy for in-space robotic assembly of modular space structures' has how many authors?",
+        "cosine_similarity": 0.8256375193595886,
+        "winning_candidate": {
+            "s": "Sisir Karumanchi et al.: Payload-centric autonomy for in-space robotic assembly of modular space structures. (2018)",
+            "p": "authored by",
+            "o": "Junggon Kim"
+        }
+    },
+    {
+        "question": "When was 'Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks' published?",
+        "cosine_similarity": 0.8805558085441589,
+        "winning_candidate": {
+            "s": "Aditya Chattopadhyay et al.: Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks. (2017)",
+            "p": "year of publication",
+            "o": "2017"
+        }
+    },
+    {
+        "question": "What year was 'Finger vein verification using a Siamese CNN' published?",
+        "cosine_similarity": 0.8608500361442566,
+        "winning_candidate": {
+            "s": "Su Tang et al.: Finger vein verification using a Siamese CNN. (2019)",
+            "p": "year of publication",
+            "o": "2019"
+        }
+    },
+    {
+        "question": "In what year was 'A Multi-level Trust Evaluation Model Based on D-S Theory for Grid' published?",
+        "cosine_similarity": 0.8684766888618469,
+        "winning_candidate": {
+            "s": "Kai Wei and Shaohua Tang: A Multi-level Trust Evaluation Model Based on D-S Theory for Grid. (2009)",
+            "p": "year of publication",
+            "o": "2009"
+        }
+    },
+    {
+        "question": "How many authors wrote the paper 'Automatic generation of cost-effective test oracles'?",
+        "cosine_similarity": 0.8530008792877197,
+        "winning_candidate": {
+            "s": "Alberto Goffi: Automatic generation of cost-effective test oracles. (2014)",
+            "p": "authored by",
+            "o": "Alberto Goffi"
+        }
+    },
+    {
+        "question": "What year was 'Accounting for Demographic Differentials in Forensic Error Rate Assessment of Latent Prints via Covariate-Specific ROC Regression' published?",
+        "cosine_similarity": 0.8578148484230042,
+        "winning_candidate": {
+            "s": "Emanuela Marasco et al.: Accounting for Demographic Differentials in Forensic Error Rate Assessment of Latent Prints via Covariate-Specific ROC Regression. (2020)",
+            "p": "year of publication",
+            "o": "2021"
+        }
+    },
+    {
+        "question": "Find the venue in which the paper 'Mixed Pulse Accumulation for Compressive Sensing Radar' was published.",
+        "cosine_similarity": 0.7896436452865601,
+        "winning_candidate": {
+            "s": "Yu Tao and Gong Zhang: Mixed Pulse Accumulation for Compressive Sensing Radar. (2016)",
+            "p": "published in",
+            "o": "IEEE Signal Process. Lett."
+        }
+    },
+    {
+        "question": "What year was 'Matchmaking and implementation issues for a P2P desktop grid' published?",
+        "cosine_similarity": 0.8595370650291443,
+        "winning_candidate": {
+            "s": "Michael A. Marsh et al.: Matchmaking and implementation issues for a P2P desktop grid. (2008)",
+            "p": "year of publication",
+            "o": "2008"
+        }
+    },
+    {
+        "question": "Hearing Lips: Improving Lip Reading by Distilling Speech Recognizers' was published in which year?",
+        "cosine_similarity": 0.8460609912872314,
+        "winning_candidate": {
+            "s": "Ya Zhao et al.: Hearing Lips: Improving Lip Reading by Distilling Speech Recognizers. (2019)",
+            "p": "year of publication",
+            "o": "2019"
+        }
+    },
+    {
+        "question": "Who is the author of the paper 'Interactive 3D Visualization for Theoretical Virtual Observatories'?",
+        "cosine_similarity": 0.9165700674057007,
+        "winning_candidate": {
+            "s": "Timothy Dykes et al.: Interactive 3D Visualization for Theoretical Virtual Observatories. (2018)",
+            "p": "authored by",
+            "o": "Amr Hassan"
+        }
+    },
+    {
+        "question": "Name the authors of the paper 'Planar Digraphs of Digirth Five Are 2-Colorable'.",
+        "cosine_similarity": 0.9291741847991943,
+        "winning_candidate": {
+            "s": "Ararat Harutyunyan and Bojan Mohar: Planar Digraphs of Digirth Five Are 2-Colorable. (2017)",
+            "p": "authored by",
+            "o": "Ararat Harutyunyan"
+        }
+    },
+    {
+        "question": "How many authors does the publication 'Neural Network-Based Visual Data Mining for Cancer Data' have?",
+        "cosine_similarity": 0.8874446153640747,
+        "winning_candidate": {
+            "s": "Enrique Romero et al.: Neural Network-Based Visual Data Mining for Cancer Data. (2009)",
+            "p": "authored by",
+            "o": "Julio J. Vald\u00e9s"
+        }
+    },
+    {
+        "question": "Mention the venue in which 'Electronic Payment Use and Legal Protection' was published.",
+        "cosine_similarity": 0.8387187719345093,
+        "winning_candidate": {
+            "s": "Echo Huang and Fachang Chen: Electronic Payment Use and Legal Protection. (2011)",
+            "p": "published in",
+            "o": "DEIS"
+        }
+    },
+    {
+        "question": "When was 'An Accurate Ultra-Compact I-V Model for Nanometer MOS Transistors With Applications on Digital Circuits' published?",
+        "cosine_similarity": 0.8501561880111694,
+        "winning_candidate": {
+            "s": "Elio Consoli et al.: An Accurate Ultra-Compact I-V Model for Nanometer MOS Transistors With Applications on Digital Circuits. (2012)",
+            "p": "year of publication",
+            "o": "2012"
+        }
+    },
+    {
+        "question": "Where was 'Anxiety-Sensitive Planning: From Formal Foundations to Algorithms and Applications' published?",
+        "cosine_similarity": 0.8882645964622498,
+        "winning_candidate": {
+            "s": "Lo\u00efs Vanh\u00e9e et al.: Anxiety-Sensitive Planning: From Formal Foundations to Algorithms and Applications. (2022)",
+            "p": "published in",
+            "o": "ICAPS"
+        }
+    },
+    {
+        "question": "Who wrote the paper 'A BPSO-Based Method for Optimal Voltage Sag Monitor Placement Considering Uncertainties of Transition Resistance'?",
+        "cosine_similarity": 0.8816612362861633,
+        "winning_candidate": {
+            "s": "Haiwei Jiang et al.: A BPSO-Based Method for Optimal Voltage Sag Monitor Placement Considering Uncertainties of Transition Resistance. (2020)",
+            "p": "authored by",
+            "o": "Ning Ma"
+        }
+    },
+    {
+        "question": "Ein vollst\\u00E4ndiges Problem auf der Baummaschine' was published in which venue?",
+        "cosine_similarity": 0.7859163880348206,
+        "winning_candidate": {
+            "s": "T. Brand et al.: Ein fehlertolerantes UNIX(TM) Prozesssystem auf der Basis von Zuverl\u00e4ssigkeitsklassen. (1984)",
+            "p": "published in",
+            "o": "Fehlertolerierende Rechensysteme"
+        }
+    },
+    {
+        "question": "The paper 'CPP-SNS: A Solution to Influence Maximization Problem under Cost Control' was published in which year?",
+        "cosine_similarity": 0.7839241027832031,
+        "winning_candidate": {
+            "s": "Qianyi Zhan et al.: CPP-SNS: A Solution to Influence Maximization Problem under Cost Control. (2013)",
+            "p": "year of publication",
+            "o": "2013"
+        }
+    },
+    {
+        "question": "Mention the venue in which 'Informational Architecture of the Fission Yeast Cell Cycle Regulatory Network' was published.",
+        "cosine_similarity": 0.8688809871673584,
+        "winning_candidate": {
+            "s": "Hyunju Kim et al.: Informational Architecture of the Fission Yeast Cell Cycle Regulatory Network. (2014)",
+            "p": "published in",
+            "o": "ALIFE"
+        }
+    },
+    {
+        "question": "Mention the bibtex type of the paper 'Using Program by Demonstration and Visual Scripting to Supporting Game Design'.",
+        "cosine_similarity": 0.8835853934288025,
+        "winning_candidate": {
+            "s": "Ismael Sagredo-Olivenza et al.: Using Program by Demonstration and Visual Scripting to Supporting Game Design. (2017)",
+            "p": "bibtex type",
+            "o": "http://purl.org/net/nknouf/ns/bibtex#Inproceedings"
+        }
+    },
+    {
+        "question": "The paper 'The Social/Non-Technical Challenges in Developing Technology to Support Elderly Care - \\The TeleCARE Experience\\' was published in which year?",
+        "cosine_similarity": 0.6539324522018433,
+        "winning_candidate": {
+            "s": "Eoin Banahan: The Social/Non-Technical Challenges in Developing Technology to Support Elderly Care - \"The TeleCARE Experience\". (2004)",
+            "p": "year of publication",
+            "o": "2004"
+        }
+    },
+    {
+        "question": "The paper 'RAWE: An Editor for Rule Markup of Legal Texts' has how many authors?",
+        "cosine_similarity": 0.8111879229545593,
+        "winning_candidate": {
+            "s": "Monica Palmirani et al.: RAWE: An Editor for Rule Markup of Legal Texts. (2013)",
+            "p": "authored by",
+            "o": "Octavian Bujor"
+        }
+    },
+    {
+        "question": "SMART Cities: The need for spatial intelligence' was published in which year?",
+        "cosine_similarity": 0.8237022757530212,
+        "winning_candidate": {
+            "s": "Armin Gruen: SMART Cities: The need for spatial intelligence. (2013)",
+            "p": "year of publication",
+            "o": "2013"
+        }
+    },
+    {
+        "question": "Find the number of authors of the paper 'Linear Time Probabilistic Algorithms for the Singular Haplotype Reconstruction Problem from SNP Fragments'.",
+        "cosine_similarity": 0.7990047931671143,
+        "winning_candidate": {
+            "s": "Zhixiang Chen et al.: Linear Time Probabilistic Algorithms for the Singular Haplotype Reconstruction Problem from SNP Fragments. (2008)",
+            "p": "authored by",
+            "o": "Zhiyu Zhao"
+        }
+    },
+    {
+        "question": "A Virtual Screen Discovers Novel, Fragment-Sized Inhibitors of Mycobacterium tuberculosis InhA' was written by who?",
+        "cosine_similarity": 0.8639065623283386,
+        "winning_candidate": {
+            "s": "Alexander L. Perryman et al.: A Virtual Screen Discovers Novel, Fragment-Sized Inhibitors of Mycobacterium tuberculosis InhA. (2015)",
+            "p": "authored by",
+            "o": "Weixuan Yu"
+        }
+    },
+    {
+        "question": "Who is the author of the paper 'Electrical signal processing techniques in long-haul fiber-optic systems'?",
+        "cosine_similarity": 0.9084752798080444,
+        "winning_candidate": {
+            "s": "Jack H. Winters and Richard D. Gitlin: Electrical signal processing techniques in long-haul fiber-optic systems. (1990)",
+            "p": "authored by",
+            "o": "Richard D. Gitlin"
+        }
+    },
+    {
+        "question": "The paper 'Area Guide Map Modeling by Manifolds and CW-Complexes' was published in which venue?",
+        "cosine_similarity": 0.7888692021369934,
+        "winning_candidate": {
+            "s": "Tosiyasu L. Kunii and Shigeo Takahashi: Area Guide Map Modeling by Manifolds and CW-Complexes. (1993)",
+            "p": "published in",
+            "o": "Modeling in Computer Graphics"
+        }
+    },
+    {
+        "question": "What is the bibtex type of the paper 'Hierarchical Classification of Vehicle Images Using NN with Conditional Adaptive Distance'?",
+        "cosine_similarity": 0.8827977180480957,
+        "winning_candidate": {
+            "s": "Fabr\u00edzia Medeiros de S. Matos and Renata Maria Cardoso R. de Souza: Hierarchical Classification of Vehicle Images Using NN with Conditional Adaptive Distance. (2013)",
+            "p": "bibtex type",
+            "o": "http://purl.org/net/nknouf/ns/bibtex#Inproceedings"
+        }
+    },
+    {
+        "question": "Imputation of Missing Network Data' was authored by which authors?",
+        "cosine_similarity": 0.8398976922035217,
+        "winning_candidate": {
+            "s": "Ahmet Tan et al.: Neural Network Based Missing Data Recovery For Crash Database. (2007)",
+            "p": "authored by",
+            "o": "Helmut Schneider"
+        }
+    },
+    {
+        "question": "In what year was 'VIRAL-Fusion: A Visual-Inertial-Ranging-Lidar Sensor Fusion Approach' published?",
+        "cosine_similarity": 0.8643122911453247,
+        "winning_candidate": {
+            "s": "Thien-Minh Nguyen et al.: VIRAL-Fusion: A Visual-Inertial-Ranging-Lidar Sensor Fusion Approach. (2020)",
+            "p": "year of publication",
+            "o": "2020"
+        }
+    },
+    {
+        "question": "What bibtex type of publication is 'Secure 2-User Gaussian Interference Channel with Limited Information Exchange at the Transmitters'?",
+        "cosine_similarity": 0.8930983543395996,
+        "winning_candidate": {
+            "s": "Yuan Ding et al.: Time-Modulated OFDM Directional Modulation Transmitters. (2019)",
+            "p": "bibtex type",
+            "o": "http://purl.org/net/nknouf/ns/bibtex#Article"
+        }
+    },
+    {
+        "question": "Name the authors of the paper 'Software Quality Prediction Models Compared'.",
+        "cosine_similarity": 0.8389955163002014,
+        "winning_candidate": {
+            "s": "R\u00fcdiger Lincke et al.: Software Quality Prediction Models Compared. (2010)",
+            "p": "authored by",
+            "o": "R\u00fcdiger Lincke"
+        }
+    },
+    {
+        "question": "What is the bibtex type of 'Microphone-location dependent mask estimation for BSS using spatially distributed asynchronous microphones'?",
+        "cosine_similarity": 0.896300733089447,
+        "winning_candidate": {
+            "s": "Keisuke Kinoshita and Tomohiro Nakatani: Microphone-location dependent mask estimation for BSS using spatially distributed asynchronous microphones. (2013)",
+            "p": "bibtex type",
+            "o": "http://purl.org/net/nknouf/ns/bibtex#Inproceedings"
+        }
+    },
+    {
+        "question": "The paper 'Plato: Approximate Analytics over Compressed Time Series with Tight Deterministic Error Guarantees' has how many authors?",
+        "cosine_similarity": 0.8386770486831665,
+        "winning_candidate": {
+            "s": "Chunbin Lin et al.: Approximate Analytics System over Compressed Time Series with Tight Deterministic Error Guarantees. (2020)",
+            "p": "authored by",
+            "o": "Etienne Boursier"
+        }
+    },
+    {
+        "question": "When was the paper 'New bounds on D-ary optimal codes' published?",
+        "cosine_similarity": 0.8444088697433472,
+        "winning_candidate": {
+            "s": "Gonzalo Navarro and Nieves R. Brisaboa: New bounds on D-ary optimal codes. (2005)",
+            "p": "year of publication",
+            "o": "2005"
+        }
+    },
+    {
+        "question": "Where was 'ChorSystem: A Message-Based System for the Life Cycle Management of Choreographies' published?",
+        "cosine_similarity": 0.8637966513633728,
+        "winning_candidate": {
+            "s": "Andreas Wei\u00df et al.: ChorSystem: A Message-Based System for the Life Cycle Management of Choreographies. (2016)",
+            "p": "published in",
+            "o": "OTM Conferences"
+        }
+    },
+    {
+        "question": "List the authors of the paper 'On Code Generation for Multi-generator WITH-Loops in SAC'.",
+        "cosine_similarity": 0.9002298712730408,
+        "winning_candidate": {
+            "s": "Clemens Grelck et al.: On Code Generation for Multi-generator WITH-Loops in SAC. (1999)",
+            "p": "authored by",
+            "o": "Clemens Grelck"
+        }
+    },
+    {
+        "question": "The paper 'Biologically-Inspired Concepts for Autonomic Self-protection in Multiagent Systems' has how many authors?",
+        "cosine_similarity": 0.7900575399398804,
+        "winning_candidate": {
+            "s": "Roy Sterritt and Mike Hinchey: Biologically-Inspired Concepts for Autonomic Self-protection in Multiagent Systems. (2009)",
+            "p": "authored by",
+            "o": "Michael G. Hinchey"
+        }
+    },
+    {
+        "question": "In what year was 'Greek folk music classification using auditory cortical representations' published?",
+        "cosine_similarity": 0.8096289038658142,
+        "winning_candidate": {
+            "s": "Eftychia Fotiadou et al.: Greek folk music classification using auditory cortical representations. (2016)",
+            "p": "year of publication",
+            "o": "2016"
+        }
+    },
+    {
+        "question": "What is the bibtex type of the publication 'High Performance Recursive LU Factorization for Multicore Systems'?",
+        "cosine_similarity": 0.8890656232833862,
+        "winning_candidate": {
+            "s": "Ryma Mahfoudhi: High Performance Recursive LU Factorization for Multicore Systems. (2017)",
+            "p": "bibtex type",
+            "o": "http://purl.org/net/nknouf/ns/bibtex#Inproceedings"
+        }
+    },
+    {
+        "question": "Remote Side-Channel Attacks on Anonymous Transactions' has how many authors?",
+        "cosine_similarity": 0.8155634999275208,
+        "winning_candidate": {
+            "s": "Florian Tram\u00e8r et al.: Remote Side-Channel Attacks on Anonymous Transactions. (2020)",
+            "p": "authored by",
+            "o": "Kenneth G. Paterson"
+        }
+    },
+    {
+        "question": "Who wrote the paper 'Design of hybrid architectures based on neural classifier and RBF pre-processing for ECG analysis'?",
+        "cosine_similarity": 0.8879027962684631,
+        "winning_candidate": {
+            "s": "Rosaria Silipo et al.: Design of hybrid architectures based on neural classifier and RBF pre-processing for ECG analysis. (1999)",
+            "p": "authored by",
+            "o": "Giovanni Bortolan"
+        }
+    },
+    {
+        "question": "Who is the author of the paper 'Hybrid Emotion-Aware Monitoring System Based on Brainwaves for Internet of Medical Things'?",
+        "cosine_similarity": 0.9104712605476379,
+        "winning_candidate": {
+            "s": "Weizhi Meng et al.: Hybrid Emotion-Aware Monitoring System Based on Brainwaves for Internet of Medical Things. (2021)",
+            "p": "authored by",
+            "o": "Wei-Yang Chiu"
+        }
+    },
+    {
+        "question": "The paper 'Adaptive low-complexity motion estimation algorithm for high efficiency video coding encoder' has how many authors?",
+        "cosine_similarity": 0.7752018570899963,
+        "winning_candidate": {
+            "s": "Ahmed Medhat et al.: Adaptive low-complexity motion estimation algorithm for high efficiency video coding encoder. (2016)",
+            "p": "authored by",
+            "o": "Ahmed Shalaby 0001"
+        }
+    },
+    {
+        "question": "Where was the paper 'Evaluation of Automatic FPGA Offloading for Loop Statements of Applications' published?",
+        "cosine_similarity": 0.9058804512023926,
+        "winning_candidate": {
+            "s": "Yoji Yamato: Evaluation of Automatic FPGA Offloading for Loop Statements of Applications. (2020)",
+            "p": "published in",
+            "o": "CoRR"
+        }
+    },
+    {
+        "question": "In which venues were the other publications published by the authors of 'A New Algorithm of Constructing the Basis Finite Automaton'?",
+        "cosine_similarity": 0.8195744156837463,
+        "winning_candidate": {
+            "s": "Boris Melnikov and Alexandra Melnikova: A New Algorithm of Constructing the Basis Finite Automaton. (2002)",
+            "p": "authored by",
+            "o": "Alexandra Melnikova"
+        }
+    },
+    {
+        "question": "In which other years have the authors of 'Measuring the quality of discrete representations of efficient sets in multiple objective mathematical programming' published?",
+        "cosine_similarity": 0.8604312539100647,
+        "winning_candidate": {
+            "s": "Serpil Sayin: Measuring the quality of discrete representations of efficient sets in multiple objective mathematical programming. (2000)",
+            "p": "authored by",
+            "o": "Serpil Sayin"
+        }
+    },
+    {
+        "question": "Which other papers were written by the authors of the paper 'ISS Property with Respect to Boundary Disturbances for a Class of Riesz-Spectral Boundary Control Systems'?",
+        "cosine_similarity": 0.8809733390808105,
+        "winning_candidate": {
+            "s": "Hugo Lhachemi and Robert Shorten: ISS Property with Respect to Boundary Disturbances for a Class of Riesz-Spectral Boundary Control Systems. (2018)",
+            "p": "authored by",
+            "o": "Hugo Lhachemi"
+        }
+    },
+    {
+        "question": "Mention the venue of the paper 'Nonchronological Video Synopsis and Indexing' authored by Yael Pritch.",
+        "cosine_similarity": 0.8915785551071167,
+        "winning_candidate": {
+            "s": "Yael Pritch et al.: Nonchronological Video Synopsis and Indexing. (2008)",
+            "p": "authored by",
+            "o": "Shmuel Peleg"
+        }
+    },
+    {
+        "question": "Mention the venue of the paper 'Adaptive RMRC for cooperative manipulation of a floating object by two free-based space robots' authored by Hideura, M..",
+        "cosine_similarity": 0.8813740611076355,
+        "winning_candidate": {
+            "s": "Shinichi Sagara et al.: Adaptive RMRC for cooperative manipulation of a floating object by two free-based space robots. (1998)",
+            "p": "authored by",
+            "o": "Jun Kobayashi"
+        }
+    },
+    {
+        "question": "Name the other publications published by the authors of 'Three Models of Sequential Belief Updating on Uncertain Evidence'.",
+        "cosine_similarity": 0.8651299476623535,
+        "winning_candidate": {
+            "s": "James Hawthorne: Three Models of Sequential Belief Updating on Uncertain Evidence. (2004)",
+            "p": "authored by",
+            "o": "James Hawthorne"
+        }
+    },
+    {
+        "question": "In which venues were the other papers published by the authors of 'Does customizing inexactness help over simplistic precision (bit-width) reduction? A case study'?",
+        "cosine_similarity": 0.888843297958374,
+        "winning_candidate": {
+            "s": "Ashutosh Ingole et al.: Does customizing inexactness help over simplistic precision (bit-width) reduction? A case study. (2015)",
+            "p": "authored by",
+            "o": "Krishna V. Palem"
+        }
+    },
+    {
+        "question": "Which other publications were published by the authors of the paper 'RainSense: exploring the concept of a sense for weather awareness'?",
+        "cosine_similarity": 0.8739022016525269,
+        "winning_candidate": {
+            "s": "Romina Poguntke et al.: RainSense: exploring the concept of a sense for weather awareness. (2018)",
+            "p": "authored by",
+            "o": "Albrecht Schmidt 0001"
+        }
+    },
+    {
+        "question": "Name the other publications published by the authors of 'Erratum to Free Arrangement and Rhombic Tilings'.",
+        "cosine_similarity": 0.8815042972564697,
+        "winning_candidate": {
+            "s": "Paul H. Edelman and Victor Reiner: Erratum to Free Arrangement and Rhombic Tilings. (1997)",
+            "p": "authored by",
+            "o": "Victor Reiner"
+        }
+    },
+    {
+        "question": "List the other publications published by the authors of 'Past Visions and Reconciling Views: Visualizing Time, Texture and Themes in Cultural Collections'.",
+        "cosine_similarity": 0.8889039158821106,
+        "winning_candidate": {
+            "s": "Katrin Glinka et al.: Past Visions and Reconciling Views: Visualizing Time, Texture and Themes in Cultural Collections. (2017)",
+            "p": "authored by",
+            "o": "Katrin Glinka"
+        }
+    },
+    {
+        "question": "The authors of 'Fast Algorithm for CU Partitioning and Mode Selection in HEVC Intra Prediction' published research papers in which other years?",
+        "cosine_similarity": 0.8700157999992371,
+        "winning_candidate": {
+            "s": "Jinzheng Lu and Yixian Li: Fast Algorithm for CU Partitioning and Mode Selection in HEVC Intra Prediction. (2019)",
+            "p": "authored by",
+            "o": "Yixian Li"
+        }
+    },
+    {
+        "question": "Mention the venues of the other papers published by the authors of 'Introduction'.",
+        "cosine_similarity": 0.8285218477249146,
+        "winning_candidate": {
+            "s": "Katherine L. Walter: Introduction. (2013)",
+            "p": "authored by",
+            "o": "Katherine L. Walter"
+        }
+    },
+    {
+        "question": "Which other papers were written by the authors of 'Allocation cost minimization for periodic hard real-time tasks in energy-constrained DVS systems'?",
+        "cosine_similarity": 0.8710377812385559,
+        "winning_candidate": {
+            "s": "Jian-Jia Chen and Tei-Wei Kuo: Allocation cost minimization for periodic hard real-time tasks in energy-constrained DVS systems. (2006)",
+            "p": "authored by",
+            "o": "Tei-Wei Kuo"
+        }
+    },
+    {
+        "question": "In which venues were the other publications published by the authors of 'Edge Clique Partition of K 4-Free and Planar Graphs'?",
+        "cosine_similarity": 0.8683664798736572,
+        "winning_candidate": {
+            "s": "Rudolf Fleischer and Xiaotian Wu: Edge Clique Partition of K 4-Free and Planar Graphs. (2010)",
+            "p": "authored by",
+            "o": "Rudolf Fleischer"
+        }
+    },
+    {
+        "question": "What are the venues of the other papers published by the authors of the publication 'A Topology of Shared Control Systems - Finding Common Ground in Diversity'?",
+        "cosine_similarity": 0.8902673721313477,
+        "winning_candidate": {
+            "s": "David A. Abbink et al.: A Topology of Shared Control Systems - Finding Common Ground in Diversity. (2018)",
+            "p": "authored by",
+            "o": "Erwin R. Boer"
+        }
+    },
+    {
+        "question": "What are the primary affiliations of the authors of the paper 'Provenance Circuits for Trees and Treelike Instances'?",
+        "cosine_similarity": 0.894054651260376,
+        "winning_candidate": {
+            "s": "Antoine Amarilli et al.: Provenance Circuits for Trees and Treelike Instances. (2015)",
+            "p": "authored by",
+            "o": "Pierre Bourhis"
+        }
+    },
+    {
+        "question": "The authors of 'Approaching Artery Rigid Dynamics in IVUS' published research papers in which other years?",
+        "cosine_similarity": 0.8992133736610413,
+        "winning_candidate": {
+            "s": "Aura Hern\u00e1ndez-Sabat\u00e9 et al.: Approaching Artery Rigid Dynamics in IVUS. (2009)",
+            "p": "authored by",
+            "o": "Debora Gil"
+        }
+    },
+    {
+        "question": "List the other publications published by the authors of 'A method for heuristic fuzzy modeling in noisy environment'.",
+        "cosine_similarity": 0.8880006670951843,
+        "winning_candidate": {
+            "s": "Andri Riid and Ennu R\u00fcstern: A method for heuristic fuzzy modeling in noisy environment. (2010)",
+            "p": "authored by",
+            "o": "Ennu R\u00fcstern"
+        }
+    },
+    {
+        "question": "Where are the authors of the paper 'Simpler is better? Lexicon-based ensemble sentiment classification beats supervised methods' from?",
+        "cosine_similarity": 0.8861842155456543,
+        "winning_candidate": {
+            "s": "Lukasz Augustyniak et al.: Simpler is better? Lexicon-based ensemble sentiment classification beats supervised methods. (2014)",
+            "p": "authored by",
+            "o": "Reda Alhajj"
+        }
+    },
+    {
+        "question": "What are the venues of the other papers published by the authors of 'Fast Gesture Recognition with Multiple Stream Discrete HMMs on 3D Skeletons'?",
+        "cosine_similarity": 0.8899648189544678,
+        "winning_candidate": {
+            "s": "Guido Borghi et al.: Fast Gesture Recognition with Multiple Stream Discrete HMMs on 3D Skeletons. (2017)",
+            "p": "authored by",
+            "o": "Rita Cucchiara"
+        }
+    },
+    {
+        "question": "Which other papers were written by the authors of the paper 'A Robust Method for Detecting Vehicle Positions and Their Movements Even in Bad Weather Using Infrared Thermal Images'?",
+        "cosine_similarity": 0.862445056438446,
+        "winning_candidate": {
+            "s": "Yoichiro Iwasaki and Shinya Kawata: A Robust Method for Detecting Vehicle Positions and Their Movements Even in Bad Weather Using Infrared Thermal Images. (2008)",
+            "p": "authored by",
+            "o": "Shinya Kawata"
+        }
+    },
+    {
+        "question": "Find the venue of the paper 'A Cluster-Based Hybrid Feature Selection Method for Defect Prediction' authored by Fei W..",
+        "cosine_similarity": 0.6442254781723022,
+        "winning_candidate": {
+            "s": "Fei Wang et al.: A Cluster-Based Hybrid Feature Selection Method for Defect Prediction. (2019)",
+            "p": "authored by",
+            "o": "Fei Wang"
+        }
+    },
+    {
+        "question": "List the venues of the other papers published by the authors of 'Experimental Evaluation of Three Designs of Electrodynamic Flexural Transducers'.",
+        "cosine_similarity": 0.8155572414398193,
+        "winning_candidate": {
+            "s": "Tobias J. R. Eriksson et al.: Experimental Evaluation of Three Designs of Electrodynamic Flexural Transducers. (2016)",
+            "p": "authored by",
+            "o": "Tobias J. R. Eriksson"
+        }
+    },
+    {
+        "question": "What are the venues of the other papers published by the authors of 'ABSI: An Adaptive Binary Splitting Algorithm for Malicious Meter Inspection in Smart Grid'?",
+        "cosine_similarity": 0.8754341006278992,
+        "winning_candidate": {
+            "s": "Xiaofang Xia et al.: ABSI: An Adaptive Binary Splitting Algorithm for Malicious Meter Inspection in Smart Grid. (2019)",
+            "p": "authored by",
+            "o": "Wei Liang 0001"
+        }
+    },
+    {
+        "question": "What webpages do the authors of 'A tag recommendation system for folksonomy' have?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What ORCIDs do the authors of 'Unmanned aerial vehicle for internet of everything: Opportunities and challenges' have?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "List the other publications published by the authors of 'SemWIQ - Semantic Web Integrator and Query Engine'.",
+        "cosine_similarity": 0.8691537976264954,
+        "winning_candidate": {
+            "s": "Andreas Langegger and Wolfram W\u00f6\u00df: SemWIQ - Semantic Web Integrator and Query Engine. (2008)",
+            "p": "authored by",
+            "o": "Wolfram W\u00f6\u00df"
+        }
+    },
+    {
+        "question": "Which other papers were written by the authors of the paper 'Towards Pedestrian Target Detection with Optimized Mask R-CNN'?",
+        "cosine_similarity": 0.8813084959983826,
+        "winning_candidate": {
+            "s": "Dong-Hao Chen et al.: Towards Pedestrian Target Detection with Optimized Mask R-CNN. (2020)",
+            "p": "authored by",
+            "o": "Jia Yan"
+        }
+    },
+    {
+        "question": "The paper 'Parallel Preprocessing for Path Queries without Concurrent Reading' authored by Hagerup, T. was published in which venue?",
+        "cosine_similarity": 0.7024868726730347,
+        "winning_candidate": {
+            "s": "Torben Hagerup: Parallel Preprocessing for Path Queries without Concurrent Reading. (2000)",
+            "p": "authored by",
+            "o": "Torben Hagerup"
+        }
+    },
+    {
+        "question": "Find the years in which the authors of 'A 4-32 Gb/s Bidirectional Link With 3-Tap FFE/6-Tap DFE and Collaborative CDR in 22 nm CMOS' published other papers.",
+        "cosine_similarity": 0.8401179909706116,
+        "winning_candidate": {
+            "s": "Tawfiq Musah et al.: A 4-32 Gb/s Bidirectional Link With 3-Tap FFE/6-Tap DFE and Collaborative CDR in 22 nm CMOS. (2014)",
+            "p": "authored by",
+            "o": "Joseph T. Kennedy"
+        }
+    },
+    {
+        "question": "Find the ORCIDs of the authors of 'A cluster-based appraoch to content based time series retrieval (CBTSR)'.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What ORCIDs do the authors of the paper 'Using resource-based view theory to assess the value of ERP commercial-packages in SMEs' have?",
+        "cosine_similarity": 0.8868193626403809,
+        "winning_candidate": {
+            "s": "Pedro Miguel Fernandes Ruivo et al.: Using resource-based view theory to assess the value of ERP commercial-packages in SMEs. (2015)",
+            "p": "authored by",
+            "o": "Tiago Oliveira 0001"
+        }
+    },
+    {
+        "question": "In which venues were the other papers published by the authors of 'CSLTA: an Expressive Logic for Continuous-Time Markov Chains'?",
+        "cosine_similarity": 0.871071457862854,
+        "winning_candidate": {
+            "s": "Susanna Donatelli et al.: CSLTA: an Expressive Logic for Continuous-Time Markov Chains. (2007)",
+            "p": "authored by",
+            "o": "Serge Haddad"
+        }
+    },
+    {
+        "question": "In which other years have the authors of 'Intra prediction using fully connected network for video coding' published?",
+        "cosine_similarity": 0.8732376098632812,
+        "winning_candidate": {
+            "s": "Jiahao Li et al.: Intra prediction using fully connected network for video coding. (2017)",
+            "p": "authored by",
+            "o": "Bin Li 0012"
+        }
+    },
+    {
+        "question": "List the primary affiliations of the authors of 'Interacting with Visualizations'.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Name the primary affiliations of the authors of 'Implementations of Nondeterministic Programs'.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "In which venue was the paper 'IntegraWeb: uma Arquitetura baseada em Mapeamentos Sem\\u00E2nticos(IntegraWeb: An Architectural Proposal based on Semantic Mappings)' authored by Jaime Sim\\u00E3o Sichman published?",
+        "cosine_similarity": 0.7918798923492432,
+        "winning_candidate": {
+            "s": "Felipe L. Pierin and Jaime Sim\u00e3o Sichman: IntegraWeb: uma Arquitetura baseada em Mapeamentos Sem\u00e2nticos(IntegraWeb: An Architectural Proposal based on Semantic Mappings). (2018)",
+            "p": "authored by",
+            "o": "Felipe L. Pierin"
+        }
+    },
+    {
+        "question": "List the years in which the authors of 'Specification of data schema mappings using weaving models' published other papers.",
+        "cosine_similarity": 0.8347220420837402,
+        "winning_candidate": {
+            "s": "Nenad Anicic et al.: Specification of data schema mappings using weaving models. (2012)",
+            "p": "authored by",
+            "o": "Sinisa Neskovic"
+        }
+    },
+    {
+        "question": "List the years in which the authors of 'Argumentation-based Methodology for Goal-oriented Requirements Language (GRL)' published other papers.",
+        "cosine_similarity": 0.8385513424873352,
+        "winning_candidate": {
+            "s": "Sepideh Ghanavati et al.: Argumentation-based Methodology for Goal-oriented Requirements Language (GRL). (2017)",
+            "p": "authored by",
+            "o": "Floris Bex"
+        }
+    },
+    {
+        "question": "Name the primary affiliations of the authors of 'Visual Object Tracking with Colored Measurement Noise using Kalman and UFIR Filters'.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "What are the venues of the other papers published by the authors of the publication 'Servicios awareness para la mejora del escenario educativo soportado sobre KnowCat'?",
+        "cosine_similarity": 0.863711416721344,
+        "winning_candidate": {
+            "s": "Iv\u00e1n Dario Claros G\u00f3mez et al.: Servicios awareness para la mejora del escenario educativo soportado sobre KnowCat. (2009)",
+            "p": "authored by",
+            "o": "C\u00e9sar A. Collazos 0001"
+        }
+    },
+    {
+        "question": "What are the primary affiliations of the authors of 'Definability and Interpolation within Decidable Fixpoint Logics'?",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "The paper 'Self-organized ICIC for SCN' authored by Ali Imran was published in which venue?",
+        "cosine_similarity": 0.8425434231758118,
+        "winning_candidate": {
+            "s": "Lorenza Giupponi et al.: Self-organized ICIC for SCN. (2015)",
+            "p": "authored by",
+            "o": "Ali Imran 0001"
+        }
+    },
+    {
+        "question": "List the other publications published by the authors of 'A Particle Swarm Optimization Approach for Reuse Guided Case Retrieval'.",
+        "cosine_similarity": 0.879347026348114,
+        "winning_candidate": {
+            "s": "Nabila Nouaouria et al.: A Particle Swarm Optimization Approach for Reuse Guided Case Retrieval. (2014)",
+            "p": "authored by",
+            "o": "Robert Proulx"
+        }
+    },
+    {
+        "question": "List the other publications published by the authors of 'Software Effort Estimation: unstructured group discussion as a method to reduce individual biasis'.",
+        "cosine_similarity": 0.8680059313774109,
+        "winning_candidate": {
+            "s": "Kjetil Mol\u00f8kken and Magne J\u00f8rgensen: Software Effort Estimation: unstructured group discussion as a method to reduce individual biasis. (2003)",
+            "p": "authored by",
+            "o": "Magne J\u00f8rgensen"
+        }
+    },
+    {
+        "question": "Where was the paper 'A Unified View of Determinantal Expansions for Jack Polynomials' authored by L. Roberts published?",
+        "cosine_similarity": 0.8559631109237671,
+        "winning_candidate": {
+            "s": "Leigh Roberts: A Unified View of Determinantal Expansions for Jack Polynomials. (2001)",
+            "p": "authored by",
+            "o": "Leigh Roberts"
+        }
+    },
+    {
+        "question": "List the venues of the other papers published by the authors of 'Sparsity-aware channel estimation with contaminated pilot sequence'.",
+        "cosine_similarity": 0.8407512903213501,
+        "winning_candidate": {
+            "s": "Giuseppe Destino et al.: Sparsity-aware channel estimation with contaminated pilot sequence. (2014)",
+            "p": "authored by",
+            "o": "Markku J. Juntti"
+        }
+    },
+    {
+        "question": "Which other publications were published by the authors of the paper 'Randomised Approximation in the Tutte Plane'?",
+        "cosine_similarity": 0.8744462132453918,
+        "winning_candidate": {
+            "s": "D. J. A. Welsh: Randomised Approximation in the Tutte Plane. (1994)",
+            "p": "authored by",
+            "o": "Dominic Welsh"
+        }
+    },
+    {
+        "question": "Which other publications were published by the authors of the paper 'TCP/IP over the Bluetooth Wireless Ad-hoc Network'?",
+        "cosine_similarity": 0.8605671525001526,
+        "winning_candidate": {
+            "s": "Niklas Johansson et al.: TCP/IP over the Bluetooth Wireless Ad-hoc Network. (2000)",
+            "p": "authored by",
+            "o": "Maria Kihl"
+        }
+    },
+    {
+        "question": "What are the ORCIDs of the authors of the paper 'TheM/GI/1 Bernoulli feedback queue with vacations'?",
+        "cosine_similarity": 0.9051932096481323,
+        "winning_candidate": {
+            "s": "Martin A. Wortman et al.: TheM/GI/1 Bernoulli feedback queue with vacations. (1991)",
+            "p": "authored by",
+            "o": "Ralph L. Disney"
+        }
+    },
+    {
+        "question": "Mention the venue of 'Developing Corpora for Statistical Graphical Language Models' and its year of publication.",
+        "cosine_similarity": 0.8513248562812805,
+        "winning_candidate": {
+            "s": "Andrew O'Sullivan et al.: Developing Corpora for Statistical Graphical Language Models. (2006)",
+            "p": "year of publication",
+            "o": "2006"
+        }
+    },
+    {
+        "question": "Who are the authors of the publication 'Cooperation Indexes to Support Workspace Awareness' and where did they publish other papers?",
+        "cosine_similarity": 0.8682484030723572,
+        "winning_candidate": {
+            "s": "Beno\u00eet Otjacques et al.: Cooperation Indexes to Support Workspace Awareness. (2006)",
+            "p": "authored by",
+            "o": "Fernand Feltz"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Can Scientific Impact Be Predicted?' and what other papers did they publish?",
+        "cosine_similarity": 0.8578348159790039,
+        "winning_candidate": {
+            "s": "Yuxiao Dong et al.: Can Scientific Impact Be Predicted? (2016)",
+            "p": "authored by",
+            "o": "Nitesh V. Chawla"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'The Integration of e-health into the Clinical Workflow - Electronic Health Record and Standardization Efforts' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8390042781829834,
+        "winning_candidate": {
+            "s": "Roberta Gazzarata et al.: The Integration of e-health into the Clinical Workflow - Electronic Health Record and Standardization Efforts. (2012)",
+            "p": "authored by",
+            "o": "Jan-Marc Verlinden"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'EEG Based Automated Detection of Six Different Eye Movement Conditions for Implementation in Personal Assistive Application' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8424535989761353,
+        "winning_candidate": {
+            "s": "Avishek Paul et al.: EEG Based Automated Detection of Six Different Eye Movement Conditions for Implementation in Personal Assistive Application. (2022)",
+            "p": "authored by",
+            "o": "Deboleena Sadhukhan"
+        }
+    },
+    {
+        "question": "In which venue was the paper 'Optimal seek-trajectory design for dual-stage systems' published and when?",
+        "cosine_similarity": 0.8110396265983582,
+        "winning_candidate": {
+            "s": "Dhanakorn Iamratanakul et al.: Optimal seek-trajectory design for dual-stage systems. (2006)",
+            "p": "year of publication",
+            "o": "2006"
+        }
+    },
+    {
+        "question": "Where was 'In Situ Measuring Stem Diameters of Maize Crops with a High-Throughput Phenotyping Robot' published and when?",
+        "cosine_similarity": 0.8432332873344421,
+        "winning_candidate": {
+            "s": "Zhengqiang Fan et al.: In Situ Measuring Stem Diameters of Maize Crops with a High-Throughput Phenotyping Robot. (2022)",
+            "p": "year of publication",
+            "o": "2022"
+        }
+    },
+    {
+        "question": "In which venue was the paper 'Distributed approach of continuous queries with knn join processing in spatial data warehouse' published and when?",
+        "cosine_similarity": 0.8125737309455872,
+        "winning_candidate": {
+            "s": "Marcin Gorawski and Wojciech Gebczyk: Distributed approach of continuous queries with knn join processing in spatial data warehouse. (2007)",
+            "p": "year of publication",
+            "o": "2007"
+        }
+    },
+    {
+        "question": "Who are the authors of the publication 'Scene image classification using locality-constrained linear coding based on histogram intersection' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8410975933074951,
+        "winning_candidate": {
+            "s": "Haiyan Chen et al.: Scene image classification using locality-constrained linear coding based on histogram intersection. (2018)",
+            "p": "authored by",
+            "o": "Huan Wang"
+        }
+    },
+    {
+        "question": "Find the venue of 'Mobile telecommunications market innovation: the transformation from 2g to 3g' and the year of publication.",
+        "cosine_similarity": 0.786312997341156,
+        "winning_candidate": {
+            "s": "Jan Damsgaard and Ping Gao: Mobile telecommunications market innovation: the transformation from 2g to 3g. (2004)",
+            "p": "year of publication",
+            "o": "2004"
+        }
+    },
+    {
+        "question": "Who are the authors of 'Optimal Sensor Placement of the Artificial Lateral Line for Flow Parametric Identification' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.854204535484314,
+        "winning_candidate": {
+            "s": "Dong Xu et al.: Optimal Sensor Placement of the Artificial Lateral Line for Flow Parametric Identification. (2021)",
+            "p": "authored by",
+            "o": "Wei Dai 0005"
+        }
+    },
+    {
+        "question": "In which venue was the paper 'Estimating the costs of software maintenance tasks' published and when?",
+        "cosine_similarity": 0.8277227878570557,
+        "winning_candidate": {
+            "s": "Harry M. Sneed: Estimating the costs of software maintenance tasks. (1995)",
+            "p": "year of publication",
+            "o": "1995"
+        }
+    },
+    {
+        "question": "In which venue was 'Analysis of a Neural Network Training Program Implemented with MPI and RPCs' published and when?",
+        "cosine_similarity": 0.8213364481925964,
+        "winning_candidate": {
+            "s": "Hector Cordova II et al.: Analysis of a Neural Network Training Program Implemented with MPI and RPCs. (2008)",
+            "p": "year of publication",
+            "o": "2008"
+        }
+    },
+    {
+        "question": "Find the authors of 'Automata-Based Verification of Programs with Tree Updates' and the venues of the other papers they published.",
+        "cosine_similarity": 0.7633271217346191,
+        "winning_candidate": {
+            "s": "Peter Habermehl et al.: Automata-Based Verification of Programs with Tree Updates. (2006)",
+            "p": "authored by",
+            "o": "Radu Iosif"
+        }
+    },
+    {
+        "question": "In which venue was the paper 'Rotational data augmentation for electroencephalographic data' published and when?",
+        "cosine_similarity": 0.7936793565750122,
+        "winning_candidate": {
+            "s": "Mario Michael Krell and Su Kyoung Kim: Rotational data augmentation for electroencephalographic data. (2017)",
+            "p": "year of publication",
+            "o": "2017"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Neural Networks for Collision Avoidance between Autonomous Mobile Robots' and which other papers did they publish?",
+        "cosine_similarity": 0.8707210421562195,
+        "winning_candidate": {
+            "s": "Frank Tuijnman and Ben J. A. Kr\u00f6se: Neural Networks for Collision Avoidance between Autonomous Mobile Robots. (1989)",
+            "p": "authored by",
+            "o": "Ben J. A. Kr\u00f6se"
+        }
+    },
+    {
+        "question": "List the authors of 'A novel modeling for a dual three-phase permanent magnet synchronous machine' and the venues of the other papers they published.",
+        "cosine_similarity": 0.861980676651001,
+        "winning_candidate": {
+            "s": "Bulai Wang et al.: A novel modeling for a dual three-phase permanent magnet synchronous machine. (2008)",
+            "p": "authored by",
+            "o": "Jianxin Chu"
+        }
+    },
+    {
+        "question": "List the authors of 'Evaluating similarity measures for hyperspectral classification of tree species at Ordway-Swisher Biological Station' and the venues of the other papers they published.",
+        "cosine_similarity": 0.8593959808349609,
+        "winning_candidate": {
+            "s": "Leila Kalantari et al.: Evaluating similarity measures for hyperspectral classification of tree species at Ordway-Swisher Biological Station. (2014)",
+            "p": "authored by",
+            "o": "Stephanie A. Bohlman"
+        }
+    },
+    {
+        "question": "Who are the authors of the publication 'Flexible parametrization of postnonlinear mixtures model in blind sources separation' and which other papers did they publish?",
+        "cosine_similarity": 0.8661338686943054,
+        "winning_candidate": {
+            "s": "Dinh-Tuan Pham: Flexible parametrization of postnonlinear mixtures model in blind sources separation. (2004)",
+            "p": "authored by",
+            "o": "Dinh-Tuan Pham"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Improved global exponential stability criteria of cellular neural networks with time-varying delays' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8356603384017944,
+        "winning_candidate": {
+            "s": "Qingshan Liu and Jinde Cao: Improved global exponential stability criteria of cellular neural networks with time-varying delays. (2006)",
+            "p": "authored by",
+            "o": "Qingshan Liu 0002"
+        }
+    },
+    {
+        "question": "Who are the authors of 'A choice of forcing terms in inexact Newton iterations with application to pseudo-transient continuation for incompressible fluid flow computations' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8373918533325195,
+        "winning_candidate": {
+            "s": "Lorenzo Botti: A choice of forcing terms in inexact Newton iterations with application to pseudo-transient continuation for incompressible fluid flow computations. (2015)",
+            "p": "authored by",
+            "o": "Lorenzo Botti"
+        }
+    },
+    {
+        "question": "Find the authors of 'Identification of Generalized Communities with Semantics in Networks with Content' and the other papers they published.",
+        "cosine_similarity": 0.8244794011116028,
+        "winning_candidate": {
+            "s": "Di Jin et al.: Identification of Generalized Communities with Semantics in Networks with Content. (2017)",
+            "p": "authored by",
+            "o": "Fran\u00e7oise Fogelman-Souli\u00e9"
+        }
+    },
+    {
+        "question": "Who are the authors of 'How People Perceive Human- and Product-like Robots: Cross-cultural Analysis Between Japan and Korea' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8807001113891602,
+        "winning_candidate": {
+            "s": "Hyewon Lee et al.: How People Perceive Human- and Product-like Robots: Cross-cultural Analysis Between Japan and Korea. (2015)",
+            "p": "authored by",
+            "o": "Min-Gyu Kim 0004"
+        }
+    },
+    {
+        "question": "Who are the authors of the publication 'The Impact of Service Cohesion on the Analyzability of Service-Oriented Software' and where did they publish other papers?",
+        "cosine_similarity": 0.8751529455184937,
+        "winning_candidate": {
+            "s": "Mikhail Perepletchikov et al.: The Impact of Service Cohesion on the Analyzability of Service-Oriented Software. (2010)",
+            "p": "authored by",
+            "o": "Zahir Tari"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Utilization of Visual Information Perception Characteristics to Improve Classification Accuracy of Driver's Visual Search Intention for Intelligent Vehicle' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8520706295967102,
+        "winning_candidate": {
+            "s": "Ji Hoon Kim et al.: Utilization of Visual Information Perception Characteristics to Improve Classification Accuracy of Driver's Visual Search Intention for Intelligent Vehicle. (2015)",
+            "p": "authored by",
+            "o": "Ji Hyoun Lim"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'An EM transfer learning algorithm with applications in bionic hand prostheses' and what are their affiliations?",
+        "cosine_similarity": 0.8715516924858093,
+        "winning_candidate": {
+            "s": "Benjamin Paassen et al.: An EM transfer learning algorithm with applications in bionic hand prostheses. (2017)",
+            "p": "authored by",
+            "o": "Barbara Hammer"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Dynamical And-Or Graph Learning for Object Shape Modeling and Detection' and what are their affiliations?",
+        "cosine_similarity": 0.8642105460166931,
+        "winning_candidate": {
+            "s": "Xiaolong Wang and Liang Lin: Dynamical And-Or Graph Learning for Object Shape Modeling and Detection. (2012)",
+            "p": "authored by",
+            "o": "Xiaolong Wang 0004"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Source Localization for Uniform Noise Maximum Likelihood Estimation Method and Iterative Algorithm Based on AOA' and what are the venues of the other papers they published?",
+        "cosine_similarity": 0.8405653238296509,
+        "winning_candidate": {
+            "s": "Qinli An et al.: Source Localization for Uniform Noise Maximum Likelihood Estimation Method and Iterative Algorithm Based on AOA. (2012)",
+            "p": "authored by",
+            "o": "Zhong-Hai Yin"
+        }
+    },
+    {
+        "question": "Mention the venue of 'Energy Model of SARA and Its Performance Analysis' and its year of publication.",
+        "cosine_similarity": 0.835860013961792,
+        "winning_candidate": {
+            "s": "Bo Pang et al.: Energy Model of SARA and Its Performance Analysis. (2012)",
+            "p": "year of publication",
+            "o": "2012"
+        }
+    },
+    {
+        "question": "Who are the authors of the paper 'Consumption of Hate Speech on Twitter: A Topical Approach to Capture Networks of Hateful Users' and what are their affiliations?",
+        "cosine_similarity": 0.8861075639724731,
+        "winning_candidate": {
+            "s": "Sameer Gupta et al.: Consumption of Hate Speech on Twitter: A Topical Approach to Capture Networks of Hateful Users. (2021)",
+            "p": "authored by",
+            "o": "Seema Nagar"
+        }
+    },
+    {
+        "question": "List the authors of 'Research on 3D canopy's reflectance model of semi-arid grassland' and their affiliations.",
+        "cosine_similarity": -1,
+        "winning_candidate": null
+    },
+    {
+        "question": "Who are the authors of the publication 'Medicine and Health Care as a Data Problem: Will Computers Become Better Medical Doctors?' and what other papers did they publish?",
+        "cosine_similarity": 0.8919703364372253,
+        "winning_candidate": {
+            "s": "Michael Duerr-Specht et al.: Medicine and Health Care as a Data Problem: Will Computers Become Better Medical Doctors? (2015)",
+            "p": "authored by",
+            "o": "Andreas Holzinger"
+        }
+    }
+]
