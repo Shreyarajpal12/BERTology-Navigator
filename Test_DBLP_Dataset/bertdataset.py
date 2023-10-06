@@ -1,86 +1,3 @@
-# import torch
-# import json
-# from transformers import BertTokenizer, BertModel
-# from torch.nn.functional import cosine_similarity
-
-# MODEL_NAME = 'bert-base-uncased'
-# tokenizer = BertTokenizer.from_pretrained(MODEL_NAME)
-# model = BertModel.from_pretrained(MODEL_NAME)
-
-# def get_cls_embedding(text):
-#     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512)
-#     with torch.no_grad():
-#         outputs = model(**inputs)
-#         return outputs.last_hidden_state[0, 0]
-
-# def compare_with_gold(question_str, winning_candidate_value):
-#     with open('improveddataset.json', 'r') as f:
-#         dataset = json.load(f)    
-#     gold_answer = next(
-#         (entry['answer']['results']['bindings'][0]['answer']['value'] for entry in dataset['questions'] if entry['question']['string'] == question_str),
-#         None)
-#     accuracy = 1 if gold_answer == winning_candidate_value else 0
-#     return gold_answer, accuracy
-
-# def process_question(entry):
-#     labeled_pairs = entry['labeled_pairs']
-#     question = entry['question']
-#     question_embedding = get_cls_embedding(question)
-#     batch_size = 20
-#     winning_candidate = None
-#     highest_similarity = -1
-#     results = []
-#     for i in range(0, len(labeled_pairs), batch_size):
-#         batch = labeled_pairs[i:i+batch_size]
-#         batch_texts = [f"[CLS] {item['s']} [SEP] {item['p']} [SEP] {item['o']}" for item in batch]
-#         batch_embeddings = [get_cls_embedding(text) for text in batch_texts]
-#         similarities = [cosine_similarity(question_embedding, candidate_embedding, dim=0).item() for candidate_embedding in batch_embeddings]
-#         for j, text in enumerate(batch_texts):
-#             results.append({
-#                 'text': text,
-#                 'embedding': batch_embeddings[j].tolist(),
-#                 'similarity': similarities[j]
-#             })
-#         max_similarity = max(similarities)
-#         if max_similarity > highest_similarity:
-#             highest_similarity = max_similarity
-#             winning_candidate = batch[similarities.index(max_similarity)]
-#     gold_answer, accuracy = compare_with_gold(question, winning_candidate['o'])
-#     return {'question': question,
-#         'gold_answer': gold_answer,
-#         'accuracy': accuracy,
-#         'cosine_similarity': highest_similarity,
-#         'winning_candidate': winning_candidate }
-
-# def main():
-#     with open('all_labeled_pairs.json', 'r') as f:
-#         data = json.load(f)
-#     all_results = [process_question(entry) for entry in data['questions']]
-#     # Save results
-#     with open('all_accuracy_results.json', 'w') as f:
-#         json.dump({'results': all_results}, f, indent=4)
-
-# def calculate_overall_accuracy():
-#     with open('all_accuracy_results.json', 'r') as f:
-#         results_data = json.load(f)
-#     accurate_count = sum(1 for entry in results_data['results'] if entry['accuracy'] == 1)
-#     total_objects = len(results_data['results'])
-#     overall_accuracy = (accurate_count / total_objects) * 100
-#     print(f"Overall Accuracy: {overall_accuracy:.2f}%")
-
-# def calculate_overall_accuracy():
-#     with open('all_accuracy_results.json', 'r') as f:
-#         results_data = json.load(f)    
-#     accurate_count = sum(1 for entry in results_data['results'] if entry['accuracy'] == 1)
-#     total_objects = len(results_data['results'])
-#     overall_accuracy = (accurate_count / total_objects) * 100
-#     print(f"Overall Accuracy: {overall_accuracy:.2f}%")
-
-# if __name__ == "__main__":
-#     print("execution begin")
-#     main()
-#     calculate_overall_accuracy()
-#     print("execution complete")
 import json
 import torch
 from transformers import BertTokenizer, BertModel
@@ -130,9 +47,6 @@ def compare_with_gold(question_str, winning_candidate):
                 break
     
        
-        # process the object
-    
-        # Check URI
         if all("http" not in winning_candidate[key] for key in ['s', 'p', 'o']) and all("http" in answer for answer in gold_answers):
             o_uri = fetch_uri_from_label(winning_candidate['o'])
             s_uri = fetch_uri_from_label(winning_candidate['s'])
