@@ -38,7 +38,7 @@ def process_data():
 
         elapsed_time = time.time() - start_time
         if elapsed_time > 8 * 60:  # Check if processing time exceeds 8 minutes.
-            print("Issue: Processing exceeded 8 minutes for question:", question)
+            print("Warning: Processing exceeded 8 minutes for question:", question)
 
         all_results.append({
             'question': question,
