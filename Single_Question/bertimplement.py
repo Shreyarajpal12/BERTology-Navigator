@@ -1,49 +1,3 @@
-# import torch
-# import json
-# from transformers import BertTokenizer, BertModel
-# from torch.nn.functional import cosine_similarity
-
-# MODEL_NAME = 'bert-base-uncased'
-# tokenizer = BertTokenizer.from_pretrained(MODEL_NAME)
-# model = BertModel.from_pretrained(MODEL_NAME)
-
-# # Encode text and get [CLS] embedding
-# def get_cls_embedding(text):
-#     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512)
-#     with torch.no_grad():
-#         outputs = model(**inputs)
-#         return outputs.last_hidden_state[0, 0]
-
-# # Load data
-# with open('labeled_pairs.json', 'r') as f:
-#     data = json.load(f)
-#     labeled_pairs = data['labeled_pairs']  # Get first 50 candidates
-
-# question = data['question']
-# question_embedding = get_cls_embedding(question)
-
-# # Process in batches of 20
-# batch_size = 20
-# winning_candidate = None
-# highest_similarity = -1
-
-# for i in range(0, len(labeled_pairs), batch_size):
-#     batch = labeled_pairs[i:i+batch_size]
-#     batch_texts = [f"[CLS] {item['s']} [SEP] {item['p']} [SEP] {item['o']}" for item in batch]
-#     batch_embeddings = [get_cls_embedding(text) for text in batch_texts]
-    
-#     # Compute cosine similarities
-#     similarities = [cosine_similarity(question_embedding, candidate_embedding, dim=0) for candidate_embedding in batch_embeddings]
-    
-#     # Find highest similarity in this batch
-#     max_similarity = max(similarities)
-#     if max_similarity > highest_similarity:
-#         highest_similarity = max_similarity
-#         winning_candidate = batch[similarities.index(max_similarity)]
-
-# print("Winning Candidate:", winning_candidate)
-
-
 import torch
 import json
 from transformers import BertTokenizer, BertModel
@@ -119,7 +73,6 @@ for i in range(0, len(labeled_pairs), batch_size):
 
 
 def compare_with_gold(question_str, winning_candidate_value):
-    # Load the improved dataset
     with open('improveddataset.json', 'r') as f:
         dataset = json.load(f)
     print(question_str)
@@ -136,10 +89,6 @@ def compare_with_gold(question_str, winning_candidate_value):
                     gold_answers.append(binding['answer']['value'])
             print(gold_answers)
             break
-    
-    # Check if none of the 's', 'p', 'o' contain 'http' and fetch URI for 'o' if needed
-    # Load the improved dataset
-    # ... [Same code as provided]
 
     # Check if none of the 's', 'p', 'o' contain 'http' and all gold answers don't contain 'http'
     if all("http" not in winning_candidate[key] for key in ['s', 'p', 'o']) and all("http" in answer for answer in gold_answers):
@@ -159,8 +108,8 @@ def compare_with_gold(question_str, winning_candidate_value):
 gold_answer, accuracy = compare_with_gold(question, winning_candidate)
 output_data = {
     'gold_answer': gold_answer,
+    #assuming this to be in a dataset where gold_Answer is available if not then function that finds accuracy(compare_with_gold) will be changed
     'accuracy': accuracy,
-    # Assuming 'highest_similarity' is defined elsewhere in the code
     'cosine_similarity': highest_similarity,
     'winning_candidate': winning_candidate
 }
