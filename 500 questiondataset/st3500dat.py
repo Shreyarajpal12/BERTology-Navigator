@@ -27,8 +27,7 @@ def fetch_one_hop_relations_and_labels(entity):
             }}
         }}
     """
-    # if '<' not in entity:
-    #    entity= '<'+entity
+
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
@@ -45,55 +44,58 @@ def fetch_one_hop_relations_and_labels(entity):
     return relations
 
 def valid_pair(pair, question):
-    # Condition 1
-    # Condition 2
+
     clean_question = re.sub(r"'[^']*'", "", question).lower()
+    # Condition 1
     if "wikidata" in clean_question:
         if not ("wikidata" in pair['s'].lower() or "wikidata" in pair['o'].lower()):
             return False
         else:
             return True
-    # Check condition
+    # Condition 2
     if (("author" in clean_question or "wr" in clean_question) and ("publi" in clean_question or "paper" in clean_question)):
         if "autho" not in pair['p'].lower():
             return False
         else:
             return True
+    # Condition 3
     if ("authored by" in clean_question):
         if "autho" not in pair['p'].lower():
             return False
         else:
             return True
+    # Condition 4
     if "bibtex" in clean_question:
         if not ("bibtex" in pair['p']):
             return False
         else:
             return True
-                # Condition 3
+    # Condition 5
     if "affiliat" in clean_question:
         if not ("primary affiliation" in pair['p']):
             return False
         else:
             return True
+    # Condition 6
     if "orcid" in clean_question:
         if not ("orcid" in pair['p']):
             return False
         else:
             return True
+    # Condition 7
     if ("when" in clean_question) or ("year" in clean_question):
         if not ("year of publication" in pair['p']):
             return False
         else:
             return True
-
+    # Condition 8
     if ("venue" in clean_question) or ("where" in clean_question):
         if not ("published in" == pair['p']):
             return False
         else:
             return True
-    # Condition 4
+    # Condition 9
     if "webpage" in clean_question:
-
         if "web page URL" in pair['p']:
             return True
         else:
@@ -101,14 +103,11 @@ def valid_pair(pair, question):
     if "http://www.w3.org/1999/02/22-rdf-syntax" in pair['p']:
         return False
 
-    # Condition 5
+    # Condition 10
     if "nodeID" in pair['s'] or "nodeID" in pair['o']:
         return False
     return True
 
-
-
-# [ ... ] (The rest of your existing functions like is_url, fetch_one_hop_relations_and_labels, and valid_pair remain unchanged)
 
 def process_dataset(dataset):
     output = []
@@ -148,7 +147,6 @@ def process_dataset(dataset):
 
 
 def main():
-    # Load the dataset from 'improveddataset.json'
     with open('outputentity.json', 'r') as json_file:
         dataset = json.load(json_file)
 
