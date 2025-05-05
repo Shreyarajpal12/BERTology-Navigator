@@ -1,4 +1,5 @@
-# Scholancoder
+# Bertology Navigator
+
 Submission of my KGQA system to SCHOLARLY QALD @ISWC 2023 
 ### README: KGQA on DBLP-QUAD for SCHOLARLY QALD at ISWC
 
